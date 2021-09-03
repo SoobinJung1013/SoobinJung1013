@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=E6E6FA&height=300&section=header&text=Soobin%20Jung&fontSize=75&animation=blink&fontColor=f0c1dd)
+![header](https://capsule-render.vercel.app/api?type=wave&color=E6E6FA&height=300&section=header&text=Soobin%20Jung&fontSize=75&animation=blink&fontColor=9fd3f3)
 
 <!--
 **SoobinJung1013/SoobinJung1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
