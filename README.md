@@ -70,10 +70,38 @@ Here are some ideas to get you started:
 
 ## 💻 [Coding Test Study](https://github.com/SoobinJung1013/coding_test_study)
 
-## 🔥 이력서
+## 🍠 이력서
 
-## ❄️ Project
+- [이력서 1](https://docs.google.com/document/d/1GeMrNiccYLxc2HDMjpW1-MZ3sH3bF6Fxwo9eedNINdg/edit)
 
-## 🎃 Book
+- [이력서 2](https://docs.google.com/document/d/1vKmC6G9crl9GiUtSkSIVsdaXH-JL5hPI0VKW0INt0hs/edit)
+
+<br/><br/>
+
+## ❄️ Project Review
+
+## 🎃 Book (요약)
 
 ## 🛼 Study archive
+
+- O-Ring archive
+  - Front
+    - React
+    - justinmind(prototype)
+    - bootstrap, axios 등등등
+    - 등등등
+  - Back
+    - node.js
+    - Spring
+    - 등등등
+  - Devops
+    - GCP, AWS
+    - Gitlab ci, Circle ci
+    - GKE, k8s, istio 등등등
+    - 등등등
+- Inflearn
+- YouTube (우아한 테크톡, 얄코)
+- Github 블로그 정리
+- 네이버 블로그 정리
+
+## 🕶 발표자료
