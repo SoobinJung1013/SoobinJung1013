@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ## 🌕 [CS-Study & Interview](https://github.com/SoobinJung1013/cs-study)
 
-## 💻 [Coding Test](https://github.com/SoobinJung1013/coding_test_study)
+## 💻 [Coding Test Study](https://github.com/SoobinJung1013/coding_test_study)
 
 ## 🔥 이력서
 
