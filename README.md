@@ -66,14 +66,14 @@ Here are some ideas to get you started:
 
 -->
 
-## -[CS-Study & Interview](https://github.com/SoobinJung1013/cs-study)
+## 🌕 [CS-Study & Interview](https://github.com/SoobinJung1013/cs-study)
 
-## -[Coding Test Study](https://github.com/SoobinJung1013/coding_test_study)
+## 💻 [Coding Test Study](https://github.com/SoobinJung1013/coding_test_study)
 
-## -이력서
+## 🔥 이력서
 
-## -Project
+## ❄️ Project
 
-## -Book
+## 🎃 Book
 
-## -Study archive
+## 🛼 Study archive
