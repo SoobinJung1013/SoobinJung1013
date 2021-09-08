@@ -88,20 +88,32 @@ Here are some ideas to get you started:
   - Front
     - React
     - justinmind(prototype)
-    - bootstrap, axios 등등등
-    - 등등등
+    - bootstrap, axios
+    - figma, justinmind
   - Back
     - node.js
     - Spring
-    - 등등등
+    - flask
   - Devops
     - GCP, AWS
     - Gitlab ci, Circle ci
     - GKE, k8s, istio 등등등
     - 등등등
-- Inflearn
-- YouTube (우아한 테크톡, 얄코)
-- Github 블로그 정리
+  - Etc
+    - Docker
+    - RESTful API
+    - Swqgger
+    - postman, Insomnia
+- Lecture
+  - Inflearn
+  - YouTube (우아한 테크톡, 얄코)
+- 세션 & 세미나
+  - festa
+  - 캐치
+- Article & Link (Github 블로그 정리)
 - 네이버 블로그 정리
+- 개인플젝 --
 
 ## 🕶 발표자료
+
+## 👑 Notion
