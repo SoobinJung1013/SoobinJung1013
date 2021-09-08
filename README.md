@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 ## ❄️ Projects
 
-## 🎃 Book (요약)
+## 🎃 Book
 
 ## 🛼 Study archive
 
