@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=E6E6FA&height=300&section=header&text=Soobin%20Jung&fontSize=75&animation=blink&fontColor=9fd3f3)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Soobin%20Jung&fontSize=50)
 
 <!--
 **SoobinJung1013/SoobinJung1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -97,7 +97,7 @@ Here are some ideas to get you started:
   - Devops
     - GCP, AWS
     - Gitlab ci, Circle ci
-    - GKE, k8s, istio 등등등
+    - GKE, k8s 등등등
     - 등등등
   - Etc
     - Docker
