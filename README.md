@@ -76,9 +76,9 @@ Here are some ideas to get you started:
 
 - [이력서 2](https://docs.google.com/document/d/1vKmC6G9crl9GiUtSkSIVsdaXH-JL5hPI0VKW0INt0hs/edit)
 
-<br/><br/>
+- 포트폴리오
 
-## ❄️ Project Review
+## ❄️ Projects
 
 ## 🎃 Book (요약)
 
