@@ -94,6 +94,10 @@ Here are some ideas to get you started:
     - node.js
     - Spring
     - flask
+  - DB
+    - mysql, mariadb
+    - mongodb
+    - Bigquery
   - Devops
     - GCP, AWS
     - Gitlab ci, Circle ci
