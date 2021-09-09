@@ -66,10 +66,6 @@ Here are some ideas to get you started:
 
 -->
 
-## 🌕 [CS-Study & Interview](https://github.com/SoobinJung1013/cs-study)
-
-## 💻 [Coding Test Study](https://github.com/SoobinJung1013/coding_test_study)
-
 ## 🍠 이력서
 
 - [이력서 1](https://docs.google.com/document/d/1GeMrNiccYLxc2HDMjpW1-MZ3sH3bF6Fxwo9eedNINdg/edit)
@@ -81,6 +77,14 @@ Here are some ideas to get you started:
 ## ❄️ Projects
 
 ## 🎃 Book
+
+## 기술 스택 \_ 내가 관심있는, 좋아하는 기술
+
+## 🕶 발표자료
+
+## 👑 Notion
+
+## 개인 회고록
 
 ## 🛼 Study archive
 
@@ -116,8 +120,9 @@ Here are some ideas to get you started:
   - 캐치
 - Article & Link (Github 블로그 정리)
 - 네이버 블로그 정리
+  - ✨
 - 개인플젝 --
 
-## 🕶 발표자료
+## 🌕 [CS-Study & Interview](https://github.com/SoobinJung1013/cs-study)
 
-## 👑 Notion
+## 💻 [Coding Test Study](https://github.com/SoobinJung1013/coding_test_study)
