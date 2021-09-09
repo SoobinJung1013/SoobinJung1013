@@ -68,9 +68,9 @@ Here are some ideas to get you started:
 
 ## 🍠 이력서
 
-- [이력서 1](https://docs.google.com/document/d/1GeMrNiccYLxc2HDMjpW1-MZ3sH3bF6Fxwo9eedNINdg/edit)
+- 이력서 1
 
-- [이력서 2](https://docs.google.com/document/d/1vKmC6G9crl9GiUtSkSIVsdaXH-JL5hPI0VKW0INt0hs/edit)
+- 이력서 2
 
 - 포트폴리오
 
@@ -78,13 +78,11 @@ Here are some ideas to get you started:
 
 ## 🎃 Book
 
-## 기술 스택 \_ 내가 관심있는, 좋아하는 기술
+## 내가 관심있는, 좋아하는 기술
 
 ## 🕶 발표자료
 
 ## 👑 Notion
-
-## 개인 회고록
 
 ## 🛼 Study archive
 
@@ -121,7 +119,6 @@ Here are some ideas to get you started:
 - Article & Link (Github 블로그 정리)
 - 네이버 블로그 정리
   - ✨
-- 개인플젝 --
 
 ## 🌕 [CS-Study & Interview](https://github.com/SoobinJung1013/cs-study)
 
