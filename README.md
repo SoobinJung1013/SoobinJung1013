@@ -123,3 +123,13 @@ Here are some ideas to get you started:
 ## 🌕 [CS-Study & Interview](https://github.com/SoobinJung1013/cs-study)
 
 ## 💻 [Coding Test Study](https://github.com/SoobinJung1013/coding_test_study)
+
+## 회고
+
+## 트러블 슈팅
+
+## 질문 -> 피드백
+
+## TIL
+
+## 컬쳐
