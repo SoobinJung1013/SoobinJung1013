@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 - 이력서 1
 
-- [이력서 2](https://soobin-is-the-best.notion.site/soobin-is-the-best/38265b419cff4f75afb89f001f5be34c)
+- 이력서 2
 
 - 포트폴리오
 
