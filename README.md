@@ -75,6 +75,7 @@ Here are some ideas to get you started:
 - 포트폴리오
 
 ## ❄️ Projects
+## 🫀 Side Project
 
 ## 🎃 Book
 
