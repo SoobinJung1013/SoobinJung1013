@@ -90,7 +90,6 @@ Here are some ideas to get you started:
 - O-Ring archive
   - Front
     - React
-    - justinmind(prototype)
     - bootstrap, axios
     - figma, justinmind
   - Back
@@ -111,6 +110,8 @@ Here are some ideas to get you started:
     - RESTful API
     - Swqgger
     - postman, Insomnia
+  - 숲 개념 :
+  - 잎 개념 : 
 - Lecture
   - Inflearn
   - YouTube (우아한 테크톡, 얄코)
@@ -131,6 +132,4 @@ Here are some ideas to get you started:
 
 ## 질문 -> 피드백
 
-## TIL
 
-## 컬쳐
