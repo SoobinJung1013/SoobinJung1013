@@ -164,7 +164,7 @@ Here are some ideas to get you started:
   </details>
 
   <details markdown="1">
-  <summary><strong> Devops</strong></summary>
+  <summary><strong> ETC </strong></summary>
 
 | num |       주제        | 링크 |
 | :-: | :---------------: | :--: |
