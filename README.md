@@ -82,6 +82,8 @@ Here are some ideas to get you started:
 
 ## ❄️ Projects
 
+## 🫀 Side Project
+
 <details markdown="1">
 <summary><strong> Click here !! </strong></summary>
 
@@ -156,6 +158,7 @@ Here are some ideas to get you started:
 ## 🛼 Study archive
  
 - O-Ring archive
+<<<<<<< HEAD
 <details markdown="1">
 <summary><strong> Front </strong></summary>
 
