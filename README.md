@@ -93,9 +93,13 @@ Here are some ideas to get you started:
 
   </details>
 
-## 🌕 [CS-Study & Interview](https://github.com/SoobinJung1013/cs-study)
+## 🌕 CS-Study & Interview
 
-## 💻 [Coding Test Study](https://github.com/SoobinJung1013/coding_test_study)
+- [click here !!](https://github.com/SoobinJung1013/cs-study)
+
+## 💻 Coding Test Study
+
+- [click here !!](https://github.com/SoobinJung1013/coding_test_study)
 
 ## 🎃 Book
 
