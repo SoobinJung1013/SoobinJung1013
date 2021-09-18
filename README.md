@@ -121,8 +121,9 @@ Here are some ideas to get you started:
 | num |      주제       | 링크 |
 | :-: | :-------------: | :--: |
 |  1  |      React      |  🤗  |
-|  2  |    Prototype    |  🤗  |
-|  2  | bootstap, axios |  🤗  |
+|  2  |    HTML, CSS    |  🤗  |
+|  3  |    Prototype    |  🤗  |
+|  4  | bootstap, axios |  🤗  |
 
   </details>
 
