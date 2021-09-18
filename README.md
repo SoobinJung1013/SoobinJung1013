@@ -205,13 +205,13 @@ Here are some ideas to get you started:
   <details markdown="1">
   <summary><strong>  🏔 ECT </strong></summary>
 
-| num |     주제      | 링크 |
-| :-: | :-----------: | :--: |
-|  1  |   발표자료    |  🤗  |
-|  2  |     회고      |  🤗  |
-|  1  |  트러블 슈팅  |  🤗  |
-|  2  | 질문 / 피드백 |  🤗  |
-|  2  |      TIL      |  🤗  |
+  | num |     주제      | 링크 |
+  | :-: | :-----------: | :--: |
+  |  1  |   발표자료    |  🤗  |
+  |  2  |     회고      |  🤗  |
+  |  1  |  트러블 슈팅  |  🤗  |
+  |  2  | 질문 / 피드백 |  🤗  |
+  |  2  |      TIL      |  🤗  |
 
   </details>
 
