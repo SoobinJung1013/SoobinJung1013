@@ -66,46 +66,46 @@ Here are some ideas to get you started:
 
 -->
 
-- 🍠 이력서
+#### 🍠 이력서
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
 
-  | num |    주제    | 링크 |
-  | :-: | :--------: | :--: |
-  |  1  |   이력서   |  🤗  |
-  |  2  | 포트폴리오 |  🤗  |
+| num |    주제    | 링크 |
+| :-: | :--------: | :--: |
+|  1  |   이력서   |  🤗  |
+|  2  | 포트폴리오 |  🤗  |
 
   </details>
 
-- ❄️ Projects / Side Projects
+#### ❄️ Projects / Side Projects
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
 
-  | num |      주제       | 링크 |
-  | :-: | :-------------: | :--: |
-  |  1  |    Blooming     |  🤗  |
-  |  2  | BigDataPipeline |  🤗  |
-  |  3  |       MES       |  🤗  |
-  |  4  |       GPS       |  🤗  |
-  |  5  |     미술관      |  🤗  |
+| num |      주제       | 링크 |
+| :-: | :-------------: | :--: |
+|  1  |    Blooming     |  🤗  |
+|  2  | BigDataPipeline |  🤗  |
+|  3  |       MES       |  🤗  |
+|  4  |       GPS       |  🤗  |
+|  5  |     미술관      |  🤗  |
 
   </details>
 
-- 🌕 [CS-Study & Interview](https://github.com/SoobinJung1013/cs-study)
+#### 🌕 [CS-Study & Interview](https://github.com/SoobinJung1013/cs-study)
 
-- 💻 [Coding Test Study](https://github.com/SoobinJung1013/coding_test_study)
+#### 💻 [Coding Test Study](https://github.com/SoobinJung1013/coding_test_study)
 
-- 🎃 Book
+#### 🎃 Book
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
 
-  | num | 주제 | 링크 |
-  | :-: | :--: | :--: |
-  |  1  |  .   |  🤗  |
-  |  2  |  .   |  🤗  |
+| num | 주제 | 링크 |
+| :-: | :--: | :--: |
+|  1  |  .   |  🤗  |
+|  2  |  .   |  🤗  |
 
   </details>
 
@@ -186,7 +186,7 @@ Here are some ideas to get you started:
 
   </details>
 
-# 🎖 내가 관심있는, 자신있는 좋아하는 기술
+#### 🎖 내가 관심있는, 자신있는 좋아하는 기술
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
@@ -198,46 +198,46 @@ Here are some ideas to get you started:
 
   </details>
 
-- 🎶 My Tutorial
+#### 🎶 My Tutorial
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
 
-  | num | 주제 | 링크 |
-  | :-: | :--: | :--: |
-  |  1  |  .   |  🤗  |
-  |  2  |  .   |  🤗  |
+| num | 주제 | 링크 |
+| :-: | :--: | :--: |
+|  1  |  .   |  🤗  |
+|  2  |  .   |  🤗  |
 
   </details>
 
-- 🏔 발표자료
+#### 🏔 발표자료
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
 
-  | num | 주제 | 링크 |
-  | :-: | :--: | :--: |
-  |  1  |  .   |  🤗  |
-  |  2  |  .   |  🤗  |
+| num | 주제 | 링크 |
+| :-: | :--: | :--: |
+|  1  |  .   |  🤗  |
+|  2  |  .   |  🤗  |
 
   </details>
 
-- 👑 Notion
+#### 👑 Notion
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
 
-  | num | 주제 | 링크 |
-  | :-: | :--: | :--: |
-  |  1  |  .   |  🤗  |
-  |  2  |  .   |  🤗  |
+| num | 주제 | 링크 |
+| :-: | :--: | :--: |
+|  1  |  .   |  🤗  |
+|  2  |  .   |  🤗  |
 
   </details>
 
-- 회고
+#### 회고
 
-- 트러블 슈팅
+#### 트러블 슈팅
 
-- 질문 -> 피드백
+#### 질문 -> 피드백
 
-- TIL
+#### TIL
