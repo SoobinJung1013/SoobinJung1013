@@ -97,37 +97,23 @@ Here are some ideas to get you started:
 
   </details>
 
+# 🌕 [CS-Study & Interview](https://github.com/SoobinJung1013/cs-study)
+
+# 💻 [Coding Test Study](https://github.com/SoobinJung1013/coding_test_study)
+
 # 🎃 Book
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
 
-| num | 주제 | 링크 |
-| :-: | :--: | :--: |
-|  1  |  .   |  🤗  |
-|  2  |  .   |  🤗  |
+    | num | 주제 | 링크 |
+    | :-: | :--: | :--: |
+    |  1  |  .   |  🤗  |
+    |  2  |  .   |  🤗  |
 
----
-
-  </details>
-
-# 🎖 내가 관심있는, 자신있는 좋아하는 기술
-
-  <details markdown="1">
-  <summary><strong> Click here !! </strong></summary>
-
-| num | 주제 | 링크 |
-| :-: | :--: | :--: |
-|  1  |  .   |  🤗  |
-|  2  |  .   |  🤗  |
-
----
+    ---
 
   </details>
-
-# 🌕 [CS-Study & Interview](https://github.com/SoobinJung1013/cs-study)
-
-# 💻 [Coding Test Study](https://github.com/SoobinJung1013/coding_test_study)
 
 # 🛼 Study archive
 
@@ -147,77 +133,67 @@ Here are some ideas to get you started:
   <details markdown="1">
   <summary><strong> Back</strong></summary>
 
-| num |      주제       | 링크 |
-| :-: | :-------------: | :--: |
-|  1  |     Spring      |  🤗  |
-|  2  | Node.js/Express |  🤗  |
-|  2  |      Flask      |  🤗  |
-|  2  |     Django      |  🤗  |
-
----
+  | num |      주제       | 링크 |
+  | :-: | :-------------: | :--: |
+  |  1  |     Spring      |  🤗  |
+  |  2  | Node.js/Express |  🤗  |
+  |  2  |      Flask      |  🤗  |
+  |  2  |     Django      |  🤗  |
 
   </details>
 
   <details markdown="1">
   <summary><strong> DB</strong></summary>
 
-| num |      주제      | 링크 |
-| :-: | :------------: | :--: |
-|  1  | Mysql, mariaDB |  🤗  |
-|  2  |    MongoDB     |  🤗  |
-|  2  |    Bigquery    |  🤗  |
-
----
+  | num |      주제      | 링크 |
+  | :-: | :------------: | :--: |
+  |  1  | Mysql, mariaDB |  🤗  |
+  |  2  |    MongoDB     |  🤗  |
+  |  2  |    Bigquery    |  🤗  |
 
   </details>
 
   <details markdown="1">
   <summary><strong> Devops</strong></summary>
 
-| num |     주제      | 링크 |
-| :-: | :-----------: | :--: |
-|  1  |     CI/CD     |  🤗  |
-|  2  |      GCP      |  🤗  |
-|  3  |      AWS      |  🤗  |
-|  4  |      k8s      |  🤗  |
-|  5  |     보안      |  🤗  |
-|  5  | a/b benchmark |  🤗  |
-
----
+  | num |     주제      | 링크 |
+  | :-: | :-----------: | :--: |
+  |  1  |     CI/CD     |  🤗  |
+  |  2  |      GCP      |  🤗  |
+  |  3  |      AWS      |  🤗  |
+  |  4  |      k8s      |  🤗  |
+  |  5  |     보안      |  🤗  |
+  |  5  | a/b benchmark |  🤗  |
 
   </details>
 
   <details markdown="1">
   <summary><strong> Devops</strong></summary>
 
-| num |       주제        | 링크 |
-| :-: | :---------------: | :--: |
-|  1  |      docker       |  🤗  |
-|  2  |    RESTful API    |  🤗  |
-|  3  |      swagger      |  🤗  |
-|  4  | postman, Insomnia |  🤗  |
-|  5  |       보안        |  🤗  |
-
----
+  | num |       주제        | 링크 |
+  | :-: | :---------------: | :--: |
+  |  1  |      docker       |  🤗  |
+  |  2  |    RESTful API    |  🤗  |
+  |  3  |      swagger      |  🤗  |
+  |  4  | postman, Insomnia |  🤗  |
+  |  5  |       보안        |  🤗  |
 
   </details>
 
   <details markdown="1">
   <summary><strong> Lecture/세미나 </strong></summary>
 
-| num |      주제       | 링크 |
-| :-: | :-------------: | :--: |
-|  1  | Inflearn_Spring |  🤗  |
-|  2  |      얄코       |  🤗  |
-|  3  |  우아한 테크톧  |  🤗  |
-|  4  |      festa      |  🤗  |
-|  5  |      캐치       |  🤗  |
-
----
+  | num |      주제       | 링크 |
+  | :-: | :-------------: | :--: |
+  |  1  | Inflearn_Spring |  🤗  |
+  |  2  |      얄코       |  🤗  |
+  |  3  |  우아한 테크톧  |  🤗  |
+  |  4  |      festa      |  🤗  |
+  |  5  |      캐치       |  🤗  |
 
   </details>
 
-# 🕶 발표자료
+# 🎖 내가 관심있는, 자신있는 좋아하는 기술
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
@@ -227,7 +203,17 @@ Here are some ideas to get you started:
 |  1  |  .   |  🤗  |
 |  2  |  .   |  🤗  |
 
----
+  </details>
+  
+# 🏔 발표자료
+
+  <details markdown="1">
+  <summary><strong> Click here !! </strong></summary>
+
+| num | 주제 | 링크 |
+| :-: | :--: | :--: |
+|  1  |  .   |  🤗  |
+|  2  |  .   |  🤗  |
 
   </details>
 
@@ -240,8 +226,6 @@ Here are some ideas to get you started:
 | :-: | :--: | :--: |
 |  1  |  .   |  🤗  |
 |  2  |  .   |  🤗  |
-
----
 
   </details>
 
