@@ -101,6 +101,18 @@ Here are some ideas to get you started:
 
 - [click here !!](https://github.com/SoobinJung1013/coding_test_study)
 
+## 🎶 My Tutorial
+
+  <details markdown="1">
+  <summary><strong> Click here !! </strong></summary>
+
+| num | 주제 | 링크 |
+| :-: | :--: | :--: |
+|  1  |  .   |  🤗  |
+|  2  |  .   |  🤗  |
+
+  </details>
+
 ## 🎃 Book
 
   <details markdown="1">
@@ -190,6 +202,19 @@ Here are some ideas to get you started:
 
   </details>
 
+  <details markdown="1">
+  <summary><strong>  🏔 ECT </strong></summary>
+
+| num |     주제      | 링크 |
+| :-: | :-----------: | :--: |
+|  1  |   발표자료    |  🤗  |
+|  2  |     회고      |  🤗  |
+|  1  |  트러블 슈팅  |  🤗  |
+|  2  | 질문 / 피드백 |  🤗  |
+|  2  |      TIL      |  🤗  |
+
+  </details>
+
 ## 🎖 내가 관심있는, 자신있는 좋아하는 기술
 
   <details markdown="1">
@@ -201,47 +226,3 @@ Here are some ideas to get you started:
 |  2  |  .   |  🤗  |
 
   </details>
-
-## 🎶 My Tutorial
-
-  <details markdown="1">
-  <summary><strong> Click here !! </strong></summary>
-
-| num | 주제 | 링크 |
-| :-: | :--: | :--: |
-|  1  |  .   |  🤗  |
-|  2  |  .   |  🤗  |
-
-  </details>
-
-## 🏔 발표자료
-
-  <details markdown="1">
-  <summary><strong> Click here !! </strong></summary>
-
-| num | 주제 | 링크 |
-| :-: | :--: | :--: |
-|  1  |  .   |  🤗  |
-|  2  |  .   |  🤗  |
-
-  </details>
-
-## 👑 Notion
-
-  <details markdown="1">
-  <summary><strong> Click here !! </strong></summary>
-
-| num | 주제 | 링크 |
-| :-: | :--: | :--: |
-|  1  |  .   |  🤗  |
-|  2  |  .   |  🤗  |
-
-  </details>
-
-## 회고
-
-## 트러블 슈팅
-
-## 질문 -> 피드백
-
-## TIL
