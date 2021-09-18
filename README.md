@@ -115,79 +115,77 @@ Here are some ideas to get you started:
 
 ## 🛼 Study archive
 
-- O-Ring archive
-
   <details markdown="1">
   <summary><strong> Front </strong></summary>
 
-  | num |      주제       | 링크 |
-  | :-: | :-------------: | :--: |
-  |  1  |      React      |  🤗  |
-  |  2  |    Prototype    |  🤗  |
-  |  2  | bootstap, axios |  🤗  |
+| num |      주제       | 링크 |
+| :-: | :-------------: | :--: |
+|  1  |      React      |  🤗  |
+|  2  |    Prototype    |  🤗  |
+|  2  | bootstap, axios |  🤗  |
 
   </details>
 
   <details markdown="1">
   <summary><strong> Back</strong></summary>
 
-  | num |      주제       | 링크 |
-  | :-: | :-------------: | :--: |
-  |  1  |     Spring      |  🤗  |
-  |  2  | Node.js/Express |  🤗  |
-  |  2  |      Flask      |  🤗  |
-  |  2  |     Django      |  🤗  |
+| num |      주제       | 링크 |
+| :-: | :-------------: | :--: |
+|  1  |     Spring      |  🤗  |
+|  2  | Node.js/Express |  🤗  |
+|  2  |      Flask      |  🤗  |
+|  2  |     Django      |  🤗  |
 
   </details>
 
   <details markdown="1">
   <summary><strong> DB</strong></summary>
 
-  | num |      주제      | 링크 |
-  | :-: | :------------: | :--: |
-  |  1  | Mysql, mariaDB |  🤗  |
-  |  2  |    MongoDB     |  🤗  |
-  |  2  |    Bigquery    |  🤗  |
+| num |      주제      | 링크 |
+| :-: | :------------: | :--: |
+|  1  | Mysql, mariaDB |  🤗  |
+|  2  |    MongoDB     |  🤗  |
+|  2  |    Bigquery    |  🤗  |
 
   </details>
 
   <details markdown="1">
   <summary><strong> Devops</strong></summary>
 
-  | num |     주제      | 링크 |
-  | :-: | :-----------: | :--: |
-  |  1  |     CI/CD     |  🤗  |
-  |  2  |      GCP      |  🤗  |
-  |  3  |      AWS      |  🤗  |
-  |  4  |      k8s      |  🤗  |
-  |  5  |     보안      |  🤗  |
-  |  5  | a/b benchmark |  🤗  |
+| num |     주제      | 링크 |
+| :-: | :-----------: | :--: |
+|  1  |     CI/CD     |  🤗  |
+|  2  |      GCP      |  🤗  |
+|  3  |      AWS      |  🤗  |
+|  4  |      k8s      |  🤗  |
+|  5  |     보안      |  🤗  |
+|  5  | a/b benchmark |  🤗  |
 
   </details>
 
   <details markdown="1">
   <summary><strong> Devops</strong></summary>
 
-  | num |       주제        | 링크 |
-  | :-: | :---------------: | :--: |
-  |  1  |      docker       |  🤗  |
-  |  2  |    RESTful API    |  🤗  |
-  |  3  |      swagger      |  🤗  |
-  |  4  | postman, Insomnia |  🤗  |
-  |  5  |       보안        |  🤗  |
+| num |       주제        | 링크 |
+| :-: | :---------------: | :--: |
+|  1  |      docker       |  🤗  |
+|  2  |    RESTful API    |  🤗  |
+|  3  |      swagger      |  🤗  |
+|  4  | postman, Insomnia |  🤗  |
+|  5  |       보안        |  🤗  |
 
   </details>
 
   <details markdown="1">
   <summary><strong> Lecture/세미나 </strong></summary>
 
-  | num |      주제       | 링크 |
-  | :-: | :-------------: | :--: |
-  |  1  | Inflearn_Spring |  🤗  |
-  |  2  |      얄코       |  🤗  |
-  |  3  |  우아한 테크톧  |  🤗  |
-  |  4  |      festa      |  🤗  |
-  |  5  |      캐치       |  🤗  |
+| num |      주제       | 링크 |
+| :-: | :-------------: | :--: |
+|  1  | Inflearn_Spring |  🤗  |
+|  2  |      얄코       |  🤗  |
+|  3  |  우아한 테크톧  |  🤗  |
+|  4  |      festa      |  🤗  |
+|  5  |      캐치       |  🤗  |
 
   </details>
 
