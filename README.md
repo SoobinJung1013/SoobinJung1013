@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 -->
 
-## 🍠 이력서
+# 🍠 이력서
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
   </details>
 
-## ❄️ Projects / Side Projects
+# ❄️ Projects / Side Projects
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 
   </details>
 
-## 🎃 Book
+# 🎃 Book
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 
   </details>
 
-## 🎖 내가 관심있는, 자신있는 좋아하는 기술
+# 🎖 내가 관심있는, 자신있는 좋아하는 기술
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
@@ -125,48 +125,22 @@ Here are some ideas to get you started:
 
   </details>
 
-## 🕶 발표자료
+# 🌕 [CS-Study & Interview](https://github.com/SoobinJung1013/cs-study)
 
-  <details markdown="1">
-  <summary><strong> Click here !! </strong></summary>
+# 💻 [Coding Test Study](https://github.com/SoobinJung1013/coding_test_study)
 
-| num | 주제 | 링크 |
-| :-: | :--: | :--: |
-|  1  |  .   |  🤗  |
-|  2  |  .   |  🤗  |
+# 🛼 Study archive
 
----
-
-  </details>
-
-## 👑 Notion
-
-  <details markdown="1">
-  <summary><strong> Click here !! </strong></summary>
-
-| num | 주제 | 링크 |
-| :-: | :--: | :--: |
-|  1  |  .   |  🤗  |
-|  2  |  .   |  🤗  |
-
----
-
-  </details>
-      
-## 🛼 Study archive
- 
 - O-Ring archive
 
   <details markdown="1">
   <summary><strong> Front </strong></summary>
 
-| num |      주제       | 링크 |
-| :-: | :-------------: | :--: |
-|  1  |      React      |  🤗  |
-|  2  |    Prototype    |  🤗  |
-|  2  | bootstap, axios |  🤗  |
-
----
+  | num |      주제       | 링크 |
+  | :-: | :-------------: | :--: |
+  |  1  |      React      |  🤗  |
+  |  2  |    Prototype    |  🤗  |
+  |  2  | bootstap, axios |  🤗  |
 
   </details>
 
@@ -243,14 +217,38 @@ Here are some ideas to get you started:
 
   </details>
 
-## 🌕 [CS-Study & Interview](https://github.com/SoobinJung1013/cs-study)
+# 🕶 발표자료
 
-## 💻 [Coding Test Study](https://github.com/SoobinJung1013/coding_test_study)
+  <details markdown="1">
+  <summary><strong> Click here !! </strong></summary>
 
-## 회고
+| num | 주제 | 링크 |
+| :-: | :--: | :--: |
+|  1  |  .   |  🤗  |
+|  2  |  .   |  🤗  |
 
-## 트러블 슈팅
+---
 
-## 질문 -> 피드백
+  </details>
 
-## TIL
+# 👑 Notion
+
+  <details markdown="1">
+  <summary><strong> Click here !! </strong></summary>
+
+| num | 주제 | 링크 |
+| :-: | :--: | :--: |
+|  1  |  .   |  🤗  |
+|  2  |  .   |  🤗  |
+
+---
+
+  </details>
+
+# 회고
+
+# 트러블 슈팅
+
+# 질문 -> 피드백
+
+# TIL
