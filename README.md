@@ -111,8 +111,6 @@ Here are some ideas to get you started:
     |  1  |  .   |  🤗  |
     |  2  |  .   |  🤗  |
 
-    ---
-
   </details>
 
 ## 🛼 Study archive
