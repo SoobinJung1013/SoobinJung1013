@@ -113,18 +113,6 @@ Here are some ideas to get you started:
 
   </details>
 
-## 🎃 Book
-
-  <details markdown="1">
-  <summary><strong> Click here !! </strong></summary>
-
-| num | 주제 | 링크 |
-| :-: | :--: | :--: |
-|  1  |  .   |  🤗  |
-|  2  |  .   |  🤗  |
-
-  </details>
-
 - 🛼 Study archive
 
   <details markdown="1">
@@ -215,10 +203,18 @@ Here are some ideas to get you started:
 
   </details>
 
-## 🎖 내가 관심있는, 자신있는 좋아하는 기술
+  <details markdown="1">
+  <summary><strong> 📚 Book </strong></summary>
+
+  | num | 주제 | 링크 |
+  | :-: | :--: | :--: |
+  |  1  |  .   |  🤗  |
+  |  2  |  .   |  🤗  |
+
+  </details>
 
   <details markdown="1">
-  <summary><strong> Click here !! </strong></summary>
+  <summary><strong> 🎖 내가 관심있는, 자신있는 좋아하는 기술 </strong></summary>
 
 | num | 주제 | 링크 |
 | :-: | :--: | :--: |
