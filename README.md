@@ -68,57 +68,179 @@ Here are some ideas to get you started:
 
 ## 🍠 이력서
 
-- 이력서 1
+<details markdown="1">
+<summary><strong> Click here !! </strong></summary>
 
-- 이력서 2
+| num |    주제    | 링크 |
+| :-: | :--------: | :--: |
+|  1  |   이력서   |  🤗  |
+|  2  | 포트폴리오 |  🤗  |
 
-- 포트폴리오
+---
+
+</details>
 
 ## ❄️ Projects
 
+<details markdown="1">
+<summary><strong> Click here !! </strong></summary>
+
+| num |      주제       | 링크 |
+| :-: | :-------------: | :--: |
+|  1  |    Blooming     |  🤗  |
+|  2  | BigDataPipeline |  🤗  |
+|  3  |       MES       |  🤗  |
+|  4  |       GPS       |  🤗  |
+|  5  |     미술관      |  🤗  |
+
+---
+
+</details>
+
 ## 🎃 Book
 
-## 내가 관심있는, 좋아하는 기술
+  <details markdown="1">
+  <summary><strong> Click here !! </strong></summary>
+
+| num | 주제 | 링크 |
+| :-: | :--: | :--: |
+|  1  |  .   |  🤗  |
+|  2  |  .   |  🤗  |
+
+---
+
+</details>
+
+## 🎖 내가 관심있는, 자신있는 좋아하는 기술
+
+<details markdown="1">
+<summary><strong> Click here !! </strong></summary>
+
+| num | 주제 | 링크 |
+| :-: | :--: | :--: |
+|  1  |  .   |  🤗  |
+|  2  |  .   |  🤗  |
+
+---
+
+</details>
 
 ## 🕶 발표자료
 
+<details markdown="1">
+<summary><strong> Click here !! </strong></summary>
+
+| num | 주제 | 링크 |
+| :-: | :--: | :--: |
+|  1  |  .   |  🤗  |
+|  2  |  .   |  🤗  |
+
+---
+
+    </details>
+
 ## 👑 Notion
 
-## 🛼 Study archive
+<details markdown="1">
+<summary><strong> Click here !! </strong></summary>
 
+| num | 주제 | 링크 |
+| :-: | :--: | :--: |
+|  1  |  .   |  🤗  |
+|  2  |  .   |  🤗  |
+
+---
+
+</details>
+    
+## 🛼 Study archive
+ 
 - O-Ring archive
-  - Front
-    - React
-    - justinmind(prototype)
-    - bootstrap, axios
-    - figma, justinmind
-  - Back
-    - node.js
-    - Spring
-    - flask
-  - DB
-    - mysql, mariadb
-    - mongodb
-    - Bigquery
-  - Devops
-    - GCP, AWS
-    - Gitlab ci, Circle ci
-    - GKE, k8s 등등등
-    - 등등등
-  - Etc
-    - Docker
-    - RESTful API
-    - Swqgger
-    - postman, Insomnia
-- Lecture
-  - Inflearn
-  - YouTube (우아한 테크톡, 얄코)
-- 세션 & 세미나
-  - festa
-  - 캐치
-- Article & Link (Github 블로그 정리)
-- 네이버 블로그 정리
-  - ✨
+<details markdown="1">
+<summary><strong> Front </strong></summary>
+
+| num |      주제       | 링크 |
+| :-: | :-------------: | :--: |
+|  1  |      React      |  🤗  |
+|  2  |    Prototype    |  🤗  |
+|  2  | bootstap, axios |  🤗  |
+
+---
+
+</details>
+
+<details markdown="1">
+<summary><strong> Back</strong></summary>
+
+| num |      주제       | 링크 |
+| :-: | :-------------: | :--: |
+|  1  |     Spring      |  🤗  |
+|  2  | Node.js/Express |  🤗  |
+|  2  |      Flask      |  🤗  |
+|  2  |     Django      |  🤗  |
+
+---
+
+</details>
+
+<details markdown="1">
+<summary><strong> DB</strong></summary>
+
+| num |      주제      | 링크 |
+| :-: | :------------: | :--: |
+|  1  | Mysql, mariaDB |  🤗  |
+|  2  |    MongoDB     |  🤗  |
+|  2  |    Bigquery    |  🤗  |
+
+---
+
+</details>
+
+<details markdown="1">
+<summary><strong> Devops</strong></summary>
+
+| num |     주제      | 링크 |
+| :-: | :-----------: | :--: |
+|  1  |     CI/CD     |  🤗  |
+|  2  |      GCP      |  🤗  |
+|  3  |      AWS      |  🤗  |
+|  4  |      k8s      |  🤗  |
+|  5  |     보안      |  🤗  |
+|  5  | a/b benchmark |  🤗  |
+
+---
+
+</details>
+
+<details markdown="1">
+<summary><strong> Devops</strong></summary>
+
+| num |       주제        | 링크 |
+| :-: | :---------------: | :--: |
+|  1  |      docker       |  🤗  |
+|  2  |    RESTful API    |  🤗  |
+|  3  |      swagger      |  🤗  |
+|  4  | postman, Insomnia |  🤗  |
+|  5  |       보안        |  🤗  |
+
+---
+
+</details>
+
+<details markdown="1">
+<summary><strong> Lecture/세미나 </strong></summary>
+
+| num |      주제       | 링크 |
+| :-: | :-------------: | :--: |
+|  1  | Inflearn_Spring |  🤗  |
+|  2  |      얄코       |  🤗  |
+|  3  |  우아한 테크톧  |  🤗  |
+|  4  |      festa      |  🤗  |
+|  5  |      캐치       |  🤗  |
+
+---
+
+</details>
 
 ## 🌕 [CS-Study & Interview](https://github.com/SoobinJung1013/cs-study)
 
@@ -131,5 +253,3 @@ Here are some ideas to get you started:
 ## 질문 -> 피드백
 
 ## TIL
-
-## 컬쳐
