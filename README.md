@@ -106,10 +106,10 @@ Here are some ideas to get you started:
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
 
-    | num | 주제 | 링크 |
-    | :-: | :--: | :--: |
-    |  1  |  .   |  🤗  |
-    |  2  |  .   |  🤗  |
+| num | 주제 | 링크 |
+| :-: | :--: | :--: |
+|  1  |  .   |  🤗  |
+|  2  |  .   |  🤗  |
 
   </details>
 
