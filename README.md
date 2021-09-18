@@ -204,7 +204,19 @@ Here are some ideas to get you started:
 |  2  |  .   |  🤗  |
 
   </details>
-  
+
+## 🎶 My Tutorial
+
+  <details markdown="1">
+  <summary><strong> Click here !! </strong></summary>
+
+| num | 주제 | 링크 |
+| :-: | :--: | :--: |
+|  1  |  .   |  🤗  |
+|  2  |  .   |  🤗  |
+
+  </details>
+ 
 ## 🏔 발표자료
 
   <details markdown="1">
