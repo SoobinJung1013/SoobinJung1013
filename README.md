@@ -66,9 +66,8 @@ Here are some ideas to get you started:
 
 -->
 
-# 🍠 이력서
+# 🍠 이력서 <details markdown="1">
 
-  <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
 
 | num |    주제    | 링크 |
