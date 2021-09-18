@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 -->
 
-## 🍠 이력서
+- 🍠 이력서
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
   </details>
 
-## ❄️ Projects / Side Projects
+- ❄️ Projects / Side Projects
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
@@ -97,11 +97,11 @@ Here are some ideas to get you started:
 
   </details>
 
-## 🌕 [CS-Study & Interview](https://github.com/SoobinJung1013/cs-study)
+- 🌕 [CS-Study & Interview](https://github.com/SoobinJung1013/cs-study)
 
-## 💻 [Coding Test Study](https://github.com/SoobinJung1013/coding_test_study)
+- 💻 [Coding Test Study](https://github.com/SoobinJung1013/coding_test_study)
 
-## 🎃 Book
+- 🎃 Book
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 
   </details>
 
-## 🛼 Study archive
+- 🛼 Study archive
 
   <details markdown="1">
   <summary><strong> Front </strong></summary>
@@ -202,7 +202,7 @@ Here are some ideas to get you started:
 
   </details>
 
-## 🎶 My Tutorial
+- 🎶 My Tutorial
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
@@ -214,7 +214,7 @@ Here are some ideas to get you started:
 
   </details>
  
-## 🏔 발표자료
+- 🏔 발표자료
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
@@ -226,7 +226,7 @@ Here are some ideas to get you started:
 
   </details>
 
-## 👑 Notion
+- 👑 Notion
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
@@ -238,10 +238,10 @@ Here are some ideas to get you started:
 
   </details>
 
-## 회고
+- 회고
 
-## 트러블 슈팅
+- 트러블 슈팅
 
-## 질문 -> 피드백
+- 질문 -> 피드백
 
-## TIL
+- TIL
