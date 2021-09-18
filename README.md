@@ -158,7 +158,7 @@ Here are some ideas to get you started:
 ## 🛼 Study archive
  
 - O-Ring archive
-<<<<<<< HEAD
+
 <details markdown="1">
 <summary><strong> Front </strong></summary>
 
