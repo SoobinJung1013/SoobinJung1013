@@ -71,12 +71,10 @@ Here are some ideas to get you started:
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
 
-| num |    주제    | 링크 |
-| :-: | :--------: | :--: |
-|  1  |   이력서   |  🤗  |
-|  2  | 포트폴리오 |  🤗  |
-
----
+  | num |    주제    | 링크 |
+  | :-: | :--------: | :--: |
+  |  1  |   이력서   |  🤗  |
+  |  2  | 포트폴리오 |  🤗  |
 
   </details>
 
@@ -85,15 +83,13 @@ Here are some ideas to get you started:
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
 
-| num |      주제       | 링크 |
-| :-: | :-------------: | :--: |
-|  1  |    Blooming     |  🤗  |
-|  2  | BigDataPipeline |  🤗  |
-|  3  |       MES       |  🤗  |
-|  4  |       GPS       |  🤗  |
-|  5  |     미술관      |  🤗  |
-
----
+  | num |      주제       | 링크 |
+  | :-: | :-------------: | :--: |
+  |  1  |    Blooming     |  🤗  |
+  |  2  | BigDataPipeline |  🤗  |
+  |  3  |       MES       |  🤗  |
+  |  4  |       GPS       |  🤗  |
+  |  5  |     미술관      |  🤗  |
 
   </details>
 
@@ -106,10 +102,10 @@ Here are some ideas to get you started:
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
 
-| num | 주제 | 링크 |
-| :-: | :--: | :--: |
-|  1  |  .   |  🤗  |
-|  2  |  .   |  🤗  |
+  | num | 주제 | 링크 |
+  | :-: | :--: | :--: |
+  |  1  |  .   |  🤗  |
+  |  2  |  .   |  🤗  |
 
   </details>
 
@@ -118,75 +114,75 @@ Here are some ideas to get you started:
   <details markdown="1">
   <summary><strong> Front </strong></summary>
 
-| num |      주제       | 링크 |
-| :-: | :-------------: | :--: |
-|  1  |      React      |  🤗  |
-|  2  |    HTML, CSS    |  🤗  |
-|  3  |    Prototype    |  🤗  |
-|  4  | bootstap, axios |  🤗  |
+  | num |      주제       | 링크 |
+  | :-: | :-------------: | :--: |
+  |  1  |      React      |  🤗  |
+  |  2  |    HTML, CSS    |  🤗  |
+  |  3  |    Prototype    |  🤗  |
+  |  4  | bootstap, axios |  🤗  |
 
   </details>
 
   <details markdown="1">
   <summary><strong> Back</strong></summary>
 
-| num |      주제       | 링크 |
-| :-: | :-------------: | :--: |
-|  1  |     Spring      |  🤗  |
-|  2  | Node.js/Express |  🤗  |
-|  2  |      Flask      |  🤗  |
-|  2  |     Django      |  🤗  |
+  | num |      주제       | 링크 |
+  | :-: | :-------------: | :--: |
+  |  1  |     Spring      |  🤗  |
+  |  2  | Node.js/Express |  🤗  |
+  |  2  |      Flask      |  🤗  |
+  |  2  |     Django      |  🤗  |
 
   </details>
 
   <details markdown="1">
   <summary><strong> DB</strong></summary>
 
-| num |      주제      | 링크 |
-| :-: | :------------: | :--: |
-|  1  | Mysql, mariaDB |  🤗  |
-|  2  |    MongoDB     |  🤗  |
-|  2  |    Bigquery    |  🤗  |
+  | num |      주제      | 링크 |
+  | :-: | :------------: | :--: |
+  |  1  | Mysql, mariaDB |  🤗  |
+  |  2  |    MongoDB     |  🤗  |
+  |  2  |    Bigquery    |  🤗  |
 
   </details>
 
   <details markdown="1">
   <summary><strong> Devops</strong></summary>
 
-| num |     주제      | 링크 |
-| :-: | :-----------: | :--: |
-|  1  |     CI/CD     |  🤗  |
-|  2  |      GCP      |  🤗  |
-|  3  |      AWS      |  🤗  |
-|  4  |      k8s      |  🤗  |
-|  5  |     보안      |  🤗  |
-|  5  | a/b benchmark |  🤗  |
+  | num |     주제      | 링크 |
+  | :-: | :-----------: | :--: |
+  |  1  |     CI/CD     |  🤗  |
+  |  2  |      GCP      |  🤗  |
+  |  3  |      AWS      |  🤗  |
+  |  4  |      k8s      |  🤗  |
+  |  5  |     보안      |  🤗  |
+  |  5  | a/b benchmark |  🤗  |
 
   </details>
 
   <details markdown="1">
   <summary><strong> ETC </strong></summary>
 
-| num |       주제        | 링크 |
-| :-: | :---------------: | :--: |
-|  1  |      docker       |  🤗  |
-|  2  |    RESTful API    |  🤗  |
-|  3  |      swagger      |  🤗  |
-|  4  | postman, Insomnia |  🤗  |
-|  5  |       보안        |  🤗  |
+  | num |       주제        | 링크 |
+  | :-: | :---------------: | :--: |
+  |  1  |      docker       |  🤗  |
+  |  2  |    RESTful API    |  🤗  |
+  |  3  |      swagger      |  🤗  |
+  |  4  | postman, Insomnia |  🤗  |
+  |  5  |       보안        |  🤗  |
 
   </details>
 
   <details markdown="1">
   <summary><strong> Lecture/세미나 </strong></summary>
 
-| num |      주제       | 링크 |
-| :-: | :-------------: | :--: |
-|  1  | Inflearn_Spring |  🤗  |
-|  2  |      얄코       |  🤗  |
-|  3  |  우아한 테크톧  |  🤗  |
-|  4  |      festa      |  🤗  |
-|  5  |      캐치       |  🤗  |
+  | num |      주제       | 링크 |
+  | :-: | :-------------: | :--: |
+  |  1  | Inflearn_Spring |  🤗  |
+  |  2  |      얄코       |  🤗  |
+  |  3  |  우아한 테크톧  |  🤗  |
+  |  4  |      festa      |  🤗  |
+  |  5  |      캐치       |  🤗  |
 
   </details>
 
@@ -207,22 +203,22 @@ Here are some ideas to get you started:
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
 
-| num | 주제 | 링크 |
-| :-: | :--: | :--: |
-|  1  |  .   |  🤗  |
-|  2  |  .   |  🤗  |
+  | num | 주제 | 링크 |
+  | :-: | :--: | :--: |
+  |  1  |  .   |  🤗  |
+  |  2  |  .   |  🤗  |
 
   </details>
- 
+
 - 🏔 발표자료
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
 
-| num | 주제 | 링크 |
-| :-: | :--: | :--: |
-|  1  |  .   |  🤗  |
-|  2  |  .   |  🤗  |
+  | num | 주제 | 링크 |
+  | :-: | :--: | :--: |
+  |  1  |  .   |  🤗  |
+  |  2  |  .   |  🤗  |
 
   </details>
 
@@ -231,10 +227,10 @@ Here are some ideas to get you started:
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
 
-| num | 주제 | 링크 |
-| :-: | :--: | :--: |
-|  1  |  .   |  🤗  |
-|  2  |  .   |  🤗  |
+  | num | 주제 | 링크 |
+  | :-: | :--: | :--: |
+  |  1  |  .   |  🤗  |
+  |  2  |  .   |  🤗  |
 
   </details>
 
