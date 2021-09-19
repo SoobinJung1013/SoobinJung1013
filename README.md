@@ -93,13 +93,13 @@ Here are some ideas to get you started:
 
   </details>
 
-## 👩🏻‍💻 CS-Study & Interview
-
-- [click here 👈🏻](https://github.com/SoobinJung1013/cs-study)
-
 ## 👩🏻‍💻 Coding Test Study
 
 - [click here 👈🏻](https://github.com/SoobinJung1013/coding_test_study)
+
+## 👩🏻‍💻 CS-Study & Interview
+
+- [click here 👈🏻](https://github.com/SoobinJung1013/cs-study)
 
 # 🌟 My Tutorial
 
@@ -200,13 +200,13 @@ Here are some ideas to get you started:
   <details markdown="1">
   <summary><strong>  🏔 ECT 👈🏻 </strong></summary>
 
-| num |     주제      | 설명 | Link |
-| :-: | :-----------: | :--: | :--: |
-|  1  |   발표자료    |  go  |  go  |
-|  2  |     회고      |  go  |  go  |
-|  1  |  트러블 슈팅  |  go  |  go  |
-|  2  | 질문 / 피드백 |  go  |  go  |
-|  2  |      TIL      |  go  |  go  |
+| num |     주제      |                설명                | Link |
+| :-: | :-----------: | :--------------------------------: | :--: |
+|  1  |   발표자료    | 개인 공부 및 발표를 위한 정리 자료 |  go  |
+|  2  |     회고      | 개발하며 느낀점 안잊어버리게 기록  |  go  |
+|  1  |  트러블 슈팅  |    문제를 마주치고 해결한 과정     |  go  |
+|  2  | 질문 / 피드백 |           질문과 피드백            |  go  |
+|  2  |      TIL      |      매일 뭐 했는지 핵심 기록      |  go  |
 
   </details>
 
