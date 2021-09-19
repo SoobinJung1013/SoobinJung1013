@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 ## 🌟 Projects / Side Projects
 
   <details markdown="1">
-  <summary><strong> Click here !! </strong></summary>
+  <summary><strong> Click here 👈🏻 </strong></summary>
 
 | num |      주제       | 링크 |
 | :-: | :-------------: | :--: |
