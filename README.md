@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 # 🌟 My Tutorial
 
   <details markdown="1">
-  <summary><strong> Click here 👈🏻 </strong></summary>
+  <summary><strong> Click here 👈🏻👈🏻 </strong></summary>
 
 | num |        주제        |                           요약/설명                            | Tech Stack | Link |
 | :-: | :----------------: | :------------------------------------------------------------: | :--------: | :--: |
@@ -123,7 +123,7 @@ Here are some ideas to get you started:
 ## 📚 Study archive
 
   <details markdown="1">
-  <summary><strong> Front </strong></summary>
+  <summary><strong> Front 👈🏻 </strong></summary>
 
 | num |      주제       | 링크 |
 | :-: | :-------------: | :--: |
@@ -135,7 +135,7 @@ Here are some ideas to get you started:
   </details>
 
   <details markdown="1">
-  <summary><strong> Back</strong></summary>
+  <summary><strong> Back 👈🏻 </strong></summary>
 
 | num |      주제       | 링크 |
 | :-: | :-------------: | :--: |
@@ -147,7 +147,7 @@ Here are some ideas to get you started:
   </details>
 
   <details markdown="1">
-  <summary><strong> DB</strong></summary>
+  <summary><strong> DB 👈🏻 </strong></summary>
 
 | num |      주제      | 링크 |
 | :-: | :------------: | :--: |
@@ -158,7 +158,7 @@ Here are some ideas to get you started:
   </details>
 
   <details markdown="1">
-  <summary><strong> Devops</strong></summary>
+  <summary><strong> Devops 👈🏻 </strong></summary>
 
 | num |     주제      | 링크 |
 | :-: | :-----------: | :--: |
@@ -172,7 +172,7 @@ Here are some ideas to get you started:
   </details>
 
   <details markdown="1">
-  <summary><strong> ETC </strong></summary>
+  <summary><strong> ETC 👈🏻 </strong></summary>
 
 | num |       주제        | 링크 |
 | :-: | :---------------: | :--: |
@@ -185,47 +185,47 @@ Here are some ideas to get you started:
   </details>
 
   <details markdown="1">
-  <summary><strong> 🍄 Lecture/세미나 </strong></summary>
+  <summary><strong> 🍄 Lecture/세미나 👈🏻 </strong></summary>
 
-| num |      주제       | 링크 |
-| :-: | :-------------: | :--: |
-|  1  | Inflearn_Spring |  go  |
-|  2  |      얄코       |  go  |
-|  3  |  우아한 테크톧  |  go  |
-|  4  |      festa      |  go  |
-|  5  |      캐치       |  go  |
-
-  </details>
-
-  <details markdown="1">
-  <summary><strong>  🏔 ECT </strong></summary>
-
-| num |     주제      | 링크 |
-| :-: | :-----------: | :--: |
-|  1  |   발표자료    |  go  |
-|  2  |     회고      |  go  |
-|  1  |  트러블 슈팅  |  go  |
-|  2  | 질문 / 피드백 |  go  |
-|  2  |      TIL      |  go  |
+| num |      주제       |                         설명/요약                         | Link |
+| :-: | :-------------: | :-------------------------------------------------------: | :--: |
+|  1  | Inflearn_Spring |                김영한 멘토님의 스프링 기본                |  go  |
+|  2  |      얄코       |                   개발 중요 개념들 개념                   |  go  |
+|  3  |  우아한 테크톧  |                   개발 중요 개념들 개념                   |  go  |
+|  4  |      festa      | 현업에 계시는 엔지니어 분들 세미나와 이력서 자소서 세미나 |  go  |
+|  5  |      캐치       | 현업에 계시는 엔지니어 분들 세미나와 이력서 자소서 세미나 |  go  |
 
   </details>
 
   <details markdown="1">
-  <summary><strong> 📖 Book </strong></summary>
+  <summary><strong>  🏔 ECT 👈🏻 </strong></summary>
 
-| num |                 주제                  | 설명 및 요약 |    링크     |
-| :-: | :-----------------------------------: | :----------: | :---------: |
-|  1  | 코드로 배우는 스프링 부트 웹 프로젝트 |      go      |     ..      |
-|  2  |                   .                   |      go      | Not started |
+| num |     주제      | 설명 | Link |
+| :-: | :-----------: | :--: | :--: |
+|  1  |   발표자료    |  go  |  go  |
+|  2  |     회고      |  go  |  go  |
+|  1  |  트러블 슈팅  |  go  |  go  |
+|  2  | 질문 / 피드백 |  go  |  go  |
+|  2  |      TIL      |  go  |  go  |
 
   </details>
 
   <details markdown="1">
-  <summary><strong> 🫐 내가 관심있는, 자신있는 좋아하는 기술 </strong></summary>
+  <summary><strong> 📖 Book 👈🏻  </strong></summary>
 
-| num | 주제 | 링크 |
-| :-: | :--: | :--: |
-|  1  |  .   |  go  |
-|  2  |  .   |  go  |
+| num |                 주제                  |              설명 및 요약               | 링크 |
+| :-: | :-----------------------------------: | :-------------------------------------: | :--: |
+|  1  | 코드로 배우는 스프링 부트 웹 프로젝트 | Spring boot를 사용한 웹 프로젝트를 만듬 |  go  |
+|  2  |                   .                   |                   go                    |  go  |
+
+  </details>
+
+  <details markdown="1">
+  <summary><strong> 🫐 내가 관심있는, 자신있는 좋아하는 기술 👈🏻  </strong></summary>
+
+| num |       주제        | 링크 |
+| :-: | :---------------: | :--: |
+|  1  |       Cloud       |  go  |
+|  2  | Big Data Pipeline |  go  |
 
   </details>
