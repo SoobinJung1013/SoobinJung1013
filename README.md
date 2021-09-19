@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 -->
 
-## 🖋 이력서
+## 📚 이력서
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
   </details>
 
-## ❄️ Projects / Side Projects
+## 🌟 Projects / Side Projects
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
@@ -93,15 +93,15 @@ Here are some ideas to get you started:
 
   </details>
 
-## 🌕 CS-Study & Interview
+## 👩🏻‍💻 CS-Study & Interview
 
 - [click here !!](https://github.com/SoobinJung1013/cs-study)
 
-## 💻 Coding Test Study
+## 👩🏻‍💻 Coding Test Study
 
 - [click here !!](https://github.com/SoobinJung1013/coding_test_study)
 
-# 🎶 My Tutorial
+# 🌟 My Tutorial
 
   <details markdown="1">
   <summary><strong> Click here !! </strong></summary>
@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 
   </details>
 
-## 🛼 Study archive
+## 📚 Study archive
 
   <details markdown="1">
   <summary><strong> Front </strong></summary>
@@ -185,7 +185,7 @@ Here are some ideas to get you started:
   </details>
 
   <details markdown="1">
-  <summary><strong> Lecture/세미나 </strong></summary>
+  <summary><strong> 🍄 Lecture/세미나 </strong></summary>
 
 | num |      주제       | 링크 |
 | :-: | :-------------: | :--: |
@@ -211,7 +211,7 @@ Here are some ideas to get you started:
   </details>
 
   <details markdown="1">
-  <summary><strong> 📚 Book </strong></summary>
+  <summary><strong> 📖 Book </strong></summary>
 
 | num |                 주제                  | 설명 및 요약 |    링크     |
 | :-: | :-----------------------------------: | :----------: | :---------: |
@@ -221,7 +221,7 @@ Here are some ideas to get you started:
   </details>
 
   <details markdown="1">
-  <summary><strong> 🎖 내가 관심있는, 자신있는 좋아하는 기술 </strong></summary>
+  <summary><strong> 🫐 내가 관심있는, 자신있는 좋아하는 기술 </strong></summary>
 
 | num | 주제 | 링크 |
 | :-: | :--: | :--: |
