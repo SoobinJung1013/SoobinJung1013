@@ -108,15 +108,15 @@ Here are some ideas to get you started:
 
 | num |        주제        |                           요약/설명                            | Tech Stack | Link |
 | :-: | :----------------: | :------------------------------------------------------------: | :--------: | :--: |
-|  1  | Spring web project |    스프링 부트를 활용한 RESTful API Server 만들기 Tutorial     |     go     |
-|  2  |       React        |                    React 주요 기능 Tutorial                    |     go     |
-|  3  |  Node.js Express   |        Node.js와 Express의 특징을 활용한 기본 튜토리얼         |     go     |
-|  4  |     Big Query      |                    Big Query Basic Tutorial                    |     go     |
-|  5  |     Circle CI      | 개발과 배포의 효율을 위한 Circlec CI를 활ㅇ용한 ci/cd tutorial |     go     |
-|  6  |       Docker       |           컨테이너 사용을 위한 Docker basic tutorial           |     go     |
-|  7  |        GCP         |      GCP 주요 기능들 사용 튜토리얼 & 데이터 처리 프로젝트      |     go     |
-|  8  | Kubernetes & Istio |    쿠버네티스 book info tutorial + Istio & Terraform & Helm    |     go     |
-|  9  |     Monitoring     |              Prometheus 와 Grafana 기본 튜토리얼               |     go     |
+|  1  | Spring web project |    스프링 부트를 활용한 RESTful API Server 만들기 Tutorial     |     .      |  go  |
+|  2  |       React        |                    React 주요 기능 Tutorial                    |     .      |  go  |
+|  3  |  Node.js Express   |        Node.js와 Express의 특징을 활용한 기본 튜토리얼         |     .      |  go  |
+|  4  |     Big Query      |                    Big Query Basic Tutorial                    |     .      |  go  |
+|  5  |     Circle CI      | 개발과 배포의 효율을 위한 Circlec CI를 활ㅇ용한 ci/cd tutorial |     .      |  go  |
+|  6  |       Docker       |           컨테이너 사용을 위한 Docker basic tutorial           |     .      |  go  |
+|  7  |        GCP         |      GCP 주요 기능들 사용 튜토리얼 & 데이터 처리 프로젝트      |     .      |  go  |
+|  8  | Kubernetes & Istio |    쿠버네티스 book info tutorial + Istio & Terraform & Helm    |     .      |  go  |
+|  9  |     Monitoring     |              Prometheus 와 Grafana 기본 튜토리얼               |     .      |  go  |
 
   </details>
 
