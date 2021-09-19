@@ -198,7 +198,7 @@ Here are some ideas to get you started:
   </details>
 
   <details markdown="1">
-  <summary><strong>  🏔 ECT 👈🏻 </strong></summary>
+  <summary><strong>  🏔 기록 👈🏻 </strong></summary>
 
 | num |     주제      |                설명                | Link |
 | :-: | :-----------: | :--------------------------------: | :--: |
