@@ -69,12 +69,12 @@ Here are some ideas to get you started:
 ## 📚 이력서
 
   <details markdown="1">
-  <summary><strong> Click here !! </strong></summary>
+  <summary><strong> Click here ⬇️  </strong></summary>
 
 | num |    주제    | 링크 |
 | :-: | :--------: | :--: |
-|  1  |   이력서   |  🤗  |
-|  2  | 포트폴리오 |  🤗  |
+|  1  |   이력서   |  go  |
+|  2  | 포트폴리오 |  go  |
 
   </details>
 
@@ -85,11 +85,11 @@ Here are some ideas to get you started:
 
 | num |      주제       | 링크 |
 | :-: | :-------------: | :--: |
-|  1  |    Blooming     |  🤗  |
-|  2  | BigDataPipeline |  🤗  |
-|  3  |       MES       |  🤗  |
-|  4  |       GPS       |  🤗  |
-|  5  |     미술관      |  🤗  |
+|  1  |    Blooming     |  go  |
+|  2  | BigDataPipeline |  go  |
+|  3  |       MES       |  go  |
+|  4  |       GPS       |  go  |
+|  5  |     미술관      |  go  |
 
   </details>
 
@@ -127,10 +127,10 @@ Here are some ideas to get you started:
 
 | num |      주제       | 링크 |
 | :-: | :-------------: | :--: |
-|  1  |      React      |  🤗  |
-|  2  |    HTML, CSS    |  🤗  |
-|  3  |    Prototype    |  🤗  |
-|  4  | bootstap, axios |  🤗  |
+|  1  |      React      |  go  |
+|  2  |    HTML, CSS    |  go  |
+|  3  |    Prototype    |  go  |
+|  4  | bootstap, axios |  go  |
 
   </details>
 
@@ -139,10 +139,10 @@ Here are some ideas to get you started:
 
 | num |      주제       | 링크 |
 | :-: | :-------------: | :--: |
-|  1  |     Spring      |  🤗  |
-|  2  | Node.js/Express |  🤗  |
-|  2  |      Flask      |  🤗  |
-|  2  |     Django      |  🤗  |
+|  1  |     Spring      |  go  |
+|  2  | Node.js/Express |  go  |
+|  2  |      Flask      |  go  |
+|  2  |     Django      |  go  |
 
   </details>
 
@@ -151,9 +151,9 @@ Here are some ideas to get you started:
 
 | num |      주제      | 링크 |
 | :-: | :------------: | :--: |
-|  1  | Mysql, mariaDB |  🤗  |
-|  2  |    MongoDB     |  🤗  |
-|  2  |    Bigquery    |  🤗  |
+|  1  | Mysql, mariaDB |  go  |
+|  2  |    MongoDB     |  go  |
+|  2  |    Bigquery    |  go  |
 
   </details>
 
@@ -162,12 +162,12 @@ Here are some ideas to get you started:
 
 | num |     주제      | 링크 |
 | :-: | :-----------: | :--: |
-|  1  |     CI/CD     |  🤗  |
-|  2  |      GCP      |  🤗  |
-|  3  |      AWS      |  🤗  |
-|  4  |      k8s      |  🤗  |
-|  5  |     보안      |  🤗  |
-|  5  | a/b benchmark |  🤗  |
+|  1  |     CI/CD     |  go  |
+|  2  |      GCP      |  go  |
+|  3  |      AWS      |  go  |
+|  4  |      k8s      |  go  |
+|  5  |     보안      |  go  |
+|  5  | a/b benchmark |  go  |
 
   </details>
 
@@ -176,11 +176,11 @@ Here are some ideas to get you started:
 
 | num |       주제        | 링크 |
 | :-: | :---------------: | :--: |
-|  1  |      docker       |  🤗  |
-|  2  |    RESTful API    |  🤗  |
-|  3  |      swagger      |  🤗  |
-|  4  | postman, Insomnia |  🤗  |
-|  5  |       보안        |  🤗  |
+|  1  |      docker       |  go  |
+|  2  |    RESTful API    |  go  |
+|  3  |      swagger      |  go  |
+|  4  | postman, Insomnia |  go  |
+|  5  |       보안        |  go  |
 
   </details>
 
@@ -189,11 +189,11 @@ Here are some ideas to get you started:
 
 | num |      주제       | 링크 |
 | :-: | :-------------: | :--: |
-|  1  | Inflearn_Spring |  🤗  |
-|  2  |      얄코       |  🤗  |
-|  3  |  우아한 테크톧  |  🤗  |
-|  4  |      festa      |  🤗  |
-|  5  |      캐치       |  🤗  |
+|  1  | Inflearn_Spring |  go  |
+|  2  |      얄코       |  go  |
+|  3  |  우아한 테크톧  |  go  |
+|  4  |      festa      |  go  |
+|  5  |      캐치       |  go  |
 
   </details>
 
@@ -202,11 +202,11 @@ Here are some ideas to get you started:
 
 | num |     주제      | 링크 |
 | :-: | :-----------: | :--: |
-|  1  |   발표자료    |  🤗  |
-|  2  |     회고      |  🤗  |
-|  1  |  트러블 슈팅  |  🤗  |
-|  2  | 질문 / 피드백 |  🤗  |
-|  2  |      TIL      |  🤗  |
+|  1  |   발표자료    |  go  |
+|  2  |     회고      |  go  |
+|  1  |  트러블 슈팅  |  go  |
+|  2  | 질문 / 피드백 |  go  |
+|  2  |      TIL      |  go  |
 
   </details>
 
@@ -215,8 +215,8 @@ Here are some ideas to get you started:
 
 | num |                 주제                  | 설명 및 요약 |    링크     |
 | :-: | :-----------------------------------: | :----------: | :---------: |
-|  1  | 코드로 배우는 스프링 부트 웹 프로젝트 |      🤗      |     ..      |
-|  2  |                   .                   |      🤗      | Not started |
+|  1  | 코드로 배우는 스프링 부트 웹 프로젝트 |      go      |     ..      |
+|  2  |                   .                   |      go      | Not started |
 
   </details>
 
@@ -225,7 +225,7 @@ Here are some ideas to get you started:
 
 | num | 주제 | 링크 |
 | :-: | :--: | :--: |
-|  1  |  .   |  🤗  |
-|  2  |  .   |  🤗  |
+|  1  |  .   |  go  |
+|  2  |  .   |  go  |
 
   </details>
