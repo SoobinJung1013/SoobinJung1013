@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ## 📚 이력서
 
   <details markdown="1">
-  <summary><strong> Click here ⬇️  </strong></summary>
+  <summary><strong> Click here 👈🏻  </strong></summary>
 
 | num |    주제    | 링크 |
 | :-: | :--------: | :--: |
@@ -95,16 +95,16 @@ Here are some ideas to get you started:
 
 ## 👩🏻‍💻 CS-Study & Interview
 
-- [click here !!](https://github.com/SoobinJung1013/cs-study)
+- [click here 👈🏻](https://github.com/SoobinJung1013/cs-study)
 
 ## 👩🏻‍💻 Coding Test Study
 
-- [click here !!](https://github.com/SoobinJung1013/coding_test_study)
+- [click here 👈🏻](https://github.com/SoobinJung1013/coding_test_study)
 
 # 🌟 My Tutorial
 
   <details markdown="1">
-  <summary><strong> Click here !! </strong></summary>
+  <summary><strong> Click here 👈🏻 </strong></summary>
 
 | num |        주제        |                           요약/설명                            | Tech Stack | Link |
 | :-: | :----------------: | :------------------------------------------------------------: | :--------: | :--: |
