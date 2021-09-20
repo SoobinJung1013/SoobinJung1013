@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Soobin%20Jung&fontSize=40)
 
-- Cool. Courteous. Clean. Clear
+- keep cool & be polit
 
+ 
 <!--
 **SoobinJung1013/SoobinJung1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
