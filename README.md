@@ -199,7 +199,7 @@ Here are some ideas to get you started:
   </details>
 
   <details markdown="1">
-  <summary><strong>  🏔 ECT 👈🏻 </strong></summary>
+  <summary><strong>  🏔 기록 👈🏻 </strong></summary>
 
 | num |     주제      |                설명                | Link |
 | :-: | :-----------: | :--------------------------------: | :--: |
@@ -217,7 +217,8 @@ Here are some ideas to get you started:
 | num |                 주제                  |              설명 및 요약               | 링크 |
 | :-: | :-----------------------------------: | :-------------------------------------: | :--: |
 |  1  | 코드로 배우는 스프링 부트 웹 프로젝트 | Spring boot를 사용한 웹 프로젝트를 만듬 |  go  |
-|  2  |                   .                   |                   go                    |  go  |
+|  2  |                   스프링으로 하는 마이크로 서비스 구축                   |                   ...                   |  go  |
+|  3  | 쿠버네티스를 활용한 클라우드 네이티브 데브옵스  | .. |  go  |
 
   </details>
 
