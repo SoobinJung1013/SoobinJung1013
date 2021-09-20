@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 | num |    주제    | 링크 |
 | :-: | :--------: | :--: |
-|  1  |   이력서   |  go  |
+|  1  |   이력서   |  [go](https://docs.google.com/document/d/1GeMrNiccYLxc2HDMjpW1-MZ3sH3bF6Fxwo9eedNINdg/edit)  |
 |  2  | 포트폴리오 |  go  |
 
   </details>
