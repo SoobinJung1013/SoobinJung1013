@@ -92,15 +92,7 @@ Here are some ideas to get you started:
 |  5  |     미술관      |                                go                                |
 
   </details>
-
-## 👩🏻‍💻 Coding Test Study
-
-- [click here 👈🏻](https://github.com/SoobinJung1013/coding_test_study)
-
-## 👩🏻‍💻 CS-Study & Interview
-
-- [click here 👈🏻](https://github.com/SoobinJung1013/cs-study)
-
+  
 # 🌟 My Tutorial
 
   <details markdown="1">
@@ -122,6 +114,14 @@ Here are some ideas to get you started:
 | 10 | React | React 주요 기능 Tutorial | [go](https://github.com/SoobinJung1013/react_tutorial) |
 
   </details>
+
+## 👩🏻‍💻 Coding Test Study
+
+- [click here 👈🏻](https://github.com/SoobinJung1013/coding_test_study)
+
+## 👩🏻‍💻 CS-Study & Interview
+
+- [click here 👈🏻](https://github.com/SoobinJung1013/cs-study)
 
 ## 📚 Study archive
 
