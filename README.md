@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 |  6  |     Circle CI      |                        ci/cd baisc tutorial                         |                                 go                                  |
 |  7  |        GCP         | GCP 주요 기능들 사용 Tutorial (간단한 실시간 데이터 처리 프로젝트 ) |                                 go                                  |
 |  8  |     Big Query      |                      Big Query Basic Tutorial                       |                                 go                                  |
-|  9  |     Monitoring     |                Prometheus 와 Grafana Basic Tutorial                 |                                 go                                  |
+|  9  |     Refactoring    |               Blooming Project 복기                |                                 go                                  |
 | 10  |       React        |                           React Tutorial                            |       [go](https://github.com/SoobinJung1013/react_tutorial)        |
 
   </details>
