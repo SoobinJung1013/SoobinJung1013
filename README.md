@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Soobin%20Jung&fontSize=40)
 
-- keep cool & be polit
+keep cool & be polit
 
  
 <!--
