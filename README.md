@@ -88,8 +88,6 @@ Here are some ideas to get you started:
 |  1  |    Blooming     | [go](https://github.com/SiliconValleyInternship-Lambda/Blooming) |
 |  2  | BigDataPipeline |                                go                                |
 |  3  |       MES       |                                go                                |
-|  4  |       GPS       |                                go                                |
-|  5  |     미술관      |                                go                                |
 
   </details>
   
