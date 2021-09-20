@@ -119,6 +119,18 @@ Here are some ideas to get you started:
 
 - [click here 👈🏻](https://github.com/SoobinJung1013/cs-study)
 
+## 📖 Book
+  <details markdown="1">
+  <summary><strong> click here 👈🏻  </strong></summary>
+
+| num |                      주제                      |              설명 및 요약               | 링크 |
+| :-: | :--------------------------------------------: | :-------------------------------------: | :--: |
+|  1  |     코드로 배우는 스프링 부트 웹 프로젝트      | Spring boot를 사용한 웹 프로젝트를 만듬 |  go  |
+|  2  |      스프링으로 하는 마이크로 서비스 구축      |                   ...                   |  go  |
+|  3  | 쿠버네티스를 활용한 클라우드 네이티브 데브옵스 |                   ..                    |  go  |
+
+  </details>
+  
 ## 📚 Study archive
 
   <details markdown="1">
@@ -209,23 +221,5 @@ Here are some ideas to get you started:
 
   </details>
 
-  <details markdown="1">
-  <summary><strong> 📖 Book 👈🏻  </strong></summary>
 
-| num |                      주제                      |              설명 및 요약               | 링크 |
-| :-: | :--------------------------------------------: | :-------------------------------------: | :--: |
-|  1  |     코드로 배우는 스프링 부트 웹 프로젝트      | Spring boot를 사용한 웹 프로젝트를 만듬 |  go  |
-|  2  |      스프링으로 하는 마이크로 서비스 구축      |                   ...                   |  go  |
-|  3  | 쿠버네티스를 활용한 클라우드 네이티브 데브옵스 |                   ..                    |  go  |
 
-  </details>
-
-  <details markdown="1">
-  <summary><strong> 🫐 내가 관심있는, 자신있는 좋아하는 기술 👈🏻  </strong></summary>
-
-| num |       주제        | 링크 |
-| :-: | :---------------: | :--: |
-|  1  |       Cloud       |  go  |
-|  2  | Big Data Pipeline |  go  |
-
-  </details>
