@@ -106,20 +106,20 @@ Here are some ideas to get you started:
   <details markdown="1">
   <summary><strong> Click here 👈🏻👈🏻 </strong></summary>
 
-| num |        주제        |                           요약/설명                            |                                Link                                 |
-| :-: | :----------------: | :------------------------------------------------------------: | :-----------------------------------------------------------------: |
-|     |
-|  1  |     Java Basic     |                  Java를 사용한 Baseball Game                   |        [go](https://github.com/SoobinJung1013/BaseballGame)         |
-|  2  | Spring web project |    스프링 부트를 활용한 RESTful API Server 만들기 Tutorial     | [go](https://github.com/SoobinJung1013/spring_web_project_tutorial) |
-|  3  |  Node.js Express   |        Node.js와 Express의 특징을 활용한 기본 튜토리얼         |   [go](https://github.com/SoobinJung1013/nodejs_express_tutorial)   |
-|  4  | Kubernetes & Istio |    쿠버네티스 book info tutorial + Istio & Terraform & Helm    |        [go](https://github.com/SoobinJung1013/k8s_tutorial)         |
-|  5  |       Docker       |           컨테이너 사용을 위한 Docker basic tutorial           |       [go](https://github.com/SoobinJung1013/docker_tutorial)       |
-|  6  |     Circle CI      | 개발과 배포의 효율을 위한 Circlec CI를 활ㅇ용한 ci/cd tutorial |                                 go                                  |
-|     |
-|  7  |        GCP         |      GCP 주요 기능들 사용 튜토리얼 & 데이터 처리 프로젝트      |                                 go                                  |
-|  8  |     Big Query      |                    Big Query Basic Tutorial                    |                                 go                                  |
-|  9  |     Monitoring     |              Prometheus 와 Grafana 기본 튜토리얼               |                                 go                                  |
-| 10  |       React        |                    React 주요 기능 Tutorial                    |       [go](https://github.com/SoobinJung1013/react_tutorial)        |
+| num | 주제 | 요약/설명 | Link |
+| :-: | :--: | :-------: | :--: |
+
+| 1 | Java Basic | Java를 사용한 Baseball Game | [go](https://github.com/SoobinJung1013/BaseballGame) |
+| 2 | Spring web project | 스프링 부트를 활용한 RESTful API Server 만들기 Tutorial | [go](https://github.com/SoobinJung1013/spring_web_project_tutorial) |
+| 3 | Node.js Express | Node.js와 Express의 특징을 활용한 기본 튜토리얼 | [go](https://github.com/SoobinJung1013/nodejs_express_tutorial) |
+| 4 | Kubernetes & Istio | 쿠버네티스 book info tutorial + Istio & Terraform & Helm | [go](https://github.com/SoobinJung1013/k8s_tutorial) |
+| 5 | Docker | 컨테이너 사용을 위한 Docker basic tutorial | [go](https://github.com/SoobinJung1013/docker_tutorial) |
+| 6 | Circle CI | 개발과 배포의 효율을 위한 Circlec CI를 활ㅇ용한 ci/cd tutorial | go |
+
+| 7 | GCP | GCP 주요 기능들 사용 튜토리얼 & 데이터 처리 프로젝트 | go |
+| 8 | Big Query | Big Query Basic Tutorial | go |
+| 9 | Monitoring | Prometheus 와 Grafana 기본 튜토리얼 | go |
+| 10 | React | React 주요 기능 Tutorial | [go](https://github.com/SoobinJung1013/react_tutorial) |
 
   </details>
 
