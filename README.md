@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=Soobin%20Jung&fontSize=70)
 
-be cool & be polit <br/>
+<!-- be cool & be polit <br/> -->
 
 <!-- 냉정하고 정중하게 생각하고 행동하자 -->
 
