@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=Soobin%20Jung&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Soobin%20Jung&fontSize=60)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoobinJung1013&show_icons=true&theme=radical) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoobinJung1013&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
