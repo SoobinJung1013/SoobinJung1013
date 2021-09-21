@@ -74,11 +74,11 @@ Here are some ideas to get you started:
 
 -->
 
-## 📚 이력서
+## 👩🏻‍💼 이력서
 
 - [click here 👈🏻](https://soobin-is-the-best.notion.site/Soobin-Jung-3c074aac78cc4de0914398a4c8f37a4f)
 
-## 🌟 Projects / Side Projects
+## ✨Projects / Side Projects
 
   <details markdown="1">
   <summary><strong> Click here 👈🏻 </strong></summary>
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
   </details>
   
-## 🌟 My Tutorial
+## ✨ My Tutorial
 
   <details markdown="1">
   <summary><strong> Click here 👈🏻👈🏻 </strong></summary>
