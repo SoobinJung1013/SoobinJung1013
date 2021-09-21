@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Soobin%20Jung&fontSize=40)
 
 be cool & be polit <br/>
+
 <!-- 냉정하고 정중하게 생각하고 행동하자 -->
 
- 
 <!--
 **SoobinJung1013/SoobinJung1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -72,15 +72,7 @@ Here are some ideas to get you started:
 
 ## 📚 이력서
 
-  <details markdown="1">
-  <summary><strong> Click here 👈🏻  </strong></summary>
-
-| num |    주제    | 링크 |
-| :-: | :--------: | :--: |
-|  1  |   이력서   |  [go](https://docs.google.com/document/d/1GeMrNiccYLxc2HDMjpW1-MZ3sH3bF6Fxwo9eedNINdg/edit)  |
-|  2  | 포트폴리오 |  go  |
-
-  </details>
+- [click here 👈🏻](https://soobin-is-the-best.notion.site/Soobin-Jung-3c074aac78cc4de0914398a4c8f37a4f)
 
 ## 🌟 Projects / Side Projects
 
@@ -110,7 +102,7 @@ Here are some ideas to get you started:
 |  6  |     Circle CI      |                        ci/cd baisc tutorial                         |                                 go                                  |
 |  7  |        GCP         | GCP 주요 기능들 사용 Tutorial (간단한 실시간 데이터 처리 프로젝트 ) |                                 go                                  |
 |  8  |     Big Query      |                      Big Query Basic Tutorial                       |                                 go                                  |
-|  9  |     Refactoring    |               Blooming Project 복기                |                                 go                                  |
+|  9  |    Refactoring     |                        Blooming Project 복기                        |                                 go                                  |
 | 10  |       React        |                           React Tutorial                            |       [go](https://github.com/SoobinJung1013/react_tutorial)        |
 
   </details>
@@ -123,18 +115,10 @@ Here are some ideas to get you started:
 
 - [click here 👈🏻](https://github.com/SoobinJung1013/cs-study)
 
-## 📖 [Book](https://github.com/SoobinJung1013/book)
-  <details markdown="1">
-  <summary><strong> click here 👈🏻  </strong></summary>
+## 📖 Book
 
-| num |                      주제                      |              설명 및 요약               | 링크 |
-| :-: | :--------------------------------------------: | :-------------------------------------: | :--: |
-|  1  |     코드로 배우는 스프링 부트 웹 프로젝트      | Spring boot를 사용한 웹 프로젝트를 만듬 |  go  |
-|  2  |      스프링으로 하는 마이크로 서비스 구축      |                   ...                   |  go  |
-|  3  | 쿠버네티스를 활용한 클라우드 네이티브 데브옵스 |                   ..                    |  go  |
+- [click here 👈🏻](https://github.com/SoobinJung1013/book)
 
-  </details>
-  
 ## 📚 [Study archive](https://github.com/SoobinJung1013/study_archive)
 
   <details markdown="1">
@@ -224,6 +208,3 @@ Here are some ideas to get you started:
 |  2  |      TIL      |      매일 뭐 했는지 핵심 기록      |  go  |
 
   </details>
-
-
-
