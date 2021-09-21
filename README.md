@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
   </details>
   
-# 🌟 My Tutorial
+## 🌟 My Tutorial
 
   <details markdown="1">
   <summary><strong> Click here 👈🏻👈🏻 </strong></summary>
