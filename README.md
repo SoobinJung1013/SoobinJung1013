@@ -123,7 +123,7 @@ Here are some ideas to get you started:
 
 - [click here 👈🏻](https://github.com/SoobinJung1013/cs-study)
 
-## 📖 Book
+## 📖 [Book](https://github.com/SoobinJung1013/book)
   <details markdown="1">
   <summary><strong> click here 👈🏻  </strong></summary>
 
