@@ -135,7 +135,7 @@ Here are some ideas to get you started:
 
   </details>
   
-## 📚 Study archive
+## 📚 [Study archive](https://github.com/SoobinJung1013/study_archive)
 
   <details markdown="1">
   <summary><strong> Front 👈🏻 </strong></summary>
