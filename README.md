@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Soobin%20Jung&fontSize=60)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoobinJung1013&show_icons=true&theme=radical) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoobinJung1013&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoobinJung1013&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- be cool & be polit <br/> -->
@@ -126,3 +126,6 @@ Here are some ideas to get you started:
 ## 📚 Study archive
 
 - [click here 👈🏻](https://github.com/SoobinJung1013/study_archive)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoobinJung1013&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoobinJung1013&show_icons=true&theme=radical)
