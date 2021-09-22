@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 ## 👩🏻‍💼 이력서
 
-- [click here 👈🏻](https://soobin-is-the-best.notion.site/Soobin-Jung-3c074aac78cc4de0914398a4c8f37a4f)
+- [click here 👈🏻](https://soobin-is-the-best.notion.site/Soobin-Jung-6cdc8b1db97143f680502431d1b500fa)
 
 ## ✨Projects / Side Projects
 
