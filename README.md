@@ -102,13 +102,13 @@ Here are some ideas to get you started:
 |  1  |     Java Basic     |                     Java를 사용한 Baseball Game                     |        [go](https://github.com/SoobinJung1013/BaseballGame)         |
 |  2  | Spring web project |       스프링 부트를 활용한 RESTful API Server 만들기 Tutorial       | [go](https://github.com/SoobinJung1013/spring_web_project_tutorial) |
 |  3  |  Node.js Express   |              Node.js와 Express를 활용한 기본 Tutorial               |   [go](https://github.com/SoobinJung1013/nodejs_express_tutorial)   |
-|  4  | Kubernetes & Istio |    쿠버네티스 book info tutorial (with Istio & Terraform & Helm)    |        [go](https://github.com/SoobinJung1013/k8s_tutorial)         |
-|  5  |       Docker       |             컨테이너 사용을 위한 Docker basic tutorial              |       [go](https://github.com/SoobinJung1013/docker_tutorial)       |
+|  4  | Kubernetes & Istio |    쿠버네티스 book info tutorial (with Istio & Terraform & Helm)    |        go         |
+|  5  |       Docker       |             컨테이너 사용을 위한 Docker basic tutorial              |       go)       |
 |  6  |     Circle CI      |                        ci/cd baisc tutorial                         |                                 go                                  |
 |  7  |        GCP         | GCP 주요 기능들 사용 Tutorial (간단한 실시간 데이터 처리 프로젝트 ) |                                 go                                  |
 |  8  |     Big Query      |                      Big Query Basic Tutorial                       |                                 go                                  |
 |  9  |    Refactoring     |                        Blooming Project 복기                        |                                 go                                  |
-| 10  |       React        |                           React Tutorial                            |       [go](https://github.com/SoobinJung1013/react_tutorial)        |
+| 10  |       React        |                           React Tutorial                            |       go        |
 
   </details>
 
