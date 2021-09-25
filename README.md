@@ -100,9 +100,9 @@ Here are some ideas to get you started:
 | num |        주제        |                              요약/설명                              |                                Link                                 |
 | :-: | :----------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
 |  1  |     Java Basic     |                     Java를 사용한 Baseball Game                     |  [go](https://github.com/SoobinJung1013/BaseballGame)    |
-|  2  | Spring web project |       스프링 부트를 활용한 RESTful API Server 만들기 Tutorial       | [go](https://github.com/SoobinJung1013/spring_web_project_tutorial) |
-|  3  |  Node.js Express   |              Node.js와 Express를 활용한 기본 Tutorial               | [go](https://github.com/SoobinJung1013/nodejs_express_tutorial)|
-|  4  | Java TDD Practice |   TDD로 거스름돈 반환 프로젝트 만들어보기    |        [go](https://github.com/SoobinJung1013/JavaTDDPractice/settings)         |
+|  2  | Java TDD Practice |   TDD로 거스름돈 반환 프로젝트 만들어보기    |        [go](https://github.com/SoobinJung1013/JavaTDDPractice)         |
+|  3  | Spring web project |       스프링 부트를 활용한 RESTful API Server 만들기 Tutorial       | [go](https://github.com/SoobinJung1013/spring_web_project_tutorial) |
+|  4  |  Node.js Express   |              Node.js와 Express를 활용한 기본 Tutorial               | [go](https://github.com/SoobinJung1013/nodejs_express_tutorial)|
 |  5  |       Docker       |             컨테이너 사용을 위한 Docker basic tutorial              | go  |
 |  6  |       Kubernetes       |            k8s minikube Basic 튜토리얼              | go  |
 |  7  |     Circle CI      |                        ci/cd baisc tutorial                         |       go          |
