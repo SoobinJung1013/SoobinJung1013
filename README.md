@@ -86,9 +86,10 @@ Here are some ideas to get you started:
 | num |      주제       |                               링크                               |
 | :-: | :-------------: | :--------------------------------------------------------------: |
 |  1  |    Blooming     | [go](https://github.com/SiliconValleyInternship-Lambda/Blooming) |
-|  2  | BigDataPipeline |                                [go](https://github.com/SoobinJung1013/BigDataPipeline)                                |
-|  3  |       MES       |                                [go](https://github.com/SoobinJung1013/MES)                                |
-|  4  |       --(내게 맞는 전시회 찾아보기)        |             [go](https://github.com/TecheerTeamAkchak/art-exhibition)                      |
+|  2  | BigDataPipeline |                                [GCP, ci/cd, k8s, docker, etl](https://github.com/SoobinJung1013/BigDataPipeline)                                |
+|  3  |       MES       |                                [react. figma](https://github.com/SoobinJung1013/MES)                                |
+|  4  |       --(내게 맞는 전시회 찾아보기)        |             [nest](https://github.com/TecheerTeamAkchak/art-exhibition)                      |
+|  5  |       이정은 정수빈 SP        |             [spring](https://github.com/BlueberrySJ)                     |
 
   </details>
   
@@ -99,16 +100,16 @@ Here are some ideas to get you started:
 
 | num |        주제        |                              요약/설명                              |                                Link                                 |
 | :-: | :----------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
-|  1  |     Java Basic     |                     Java를 사용한 Baseball Game                     |  [go](https://github.com/SoobinJung1013/BaseballGame)    |
+|  1  |     Java Basic     |                     Java 기초 Baseball Game                     |  [go](https://github.com/SoobinJung1013/BaseballGame)    |
 |  2  | Java TDD Practice |   TDD로 거스름돈 반환 프로젝트 만들어보기    |        [go](https://github.com/SoobinJung1013/JavaTDDPractice)         |
-|  3  | Spring web project |       스프링 부트를 활용한 RESTful API Server 만들기 Tutorial       | [go](https://github.com/SoobinJung1013/spring_web_project_tutorial) |
-|  4  |  Node.js Express   |              Node.js와 Express를 활용한 기본 Tutorial               | [go](https://github.com/SoobinJung1013/nodejs_express_tutorial)|
-|  5  |       Docker       |             컨테이너 사용을 위한 Docker basic tutorial              | go  |
+<!-- |  3  | Spring web project |           | [go](https://github.com/SoobinJung1013/spring_web_project_tutorial) | -->
+|  4  |  Node.js Express   |         API server             | [go](https://github.com/SoobinJung1013/nodejs_express_tutorial)|
+|  5  |       Docker       |             도커세팅           | go  |
 |  6  |       Kubernetes       |            k8s minikube Basic 튜토리얼              | go  |
-|  7  |     Circle CI      |                        ci/cd baisc tutorial                         |       go          |
+<!-- |  7  |     Circle CI      |                        ci/cd baisc tutorial                         |       go          | -->
 |  8  |        GCP         | GCP 주요 기능들 사용 Tutorial (간단한 실시간 데이터 처리 프로젝트 ) |                                 go                                  |
-|  9  |     Big Query      |                      Big Query Basic Tutorial                       |            go                  |
-| 10  |       React        |                           React Tutorial                            |       go        |
+|  9  |     Big Query      |                      Big Query 개념 튜토리얼                   |            go                  |
+| 10  |       React        |                           React 내가 했던거                     |       go        |
 
   </details>
 
