@@ -4,8 +4,6 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoobinJung1013&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<!-- be cool & be polit <br/> -->
-
 <!-- 냉정하고 정중하게 생각하고 행동하자 -->
 
 <!--
