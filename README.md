@@ -100,15 +100,16 @@ Here are some ideas to get you started:
 | :-: | :----------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
 |  1  |     Java Basic     |                     Java 기초 Baseball Game                     |  [go](https://github.com/SoobinJung1013/BaseballGame)    |
 |  2  | Java TDD Practice |   TDD로 거스름돈 반환 프로젝트 만들어보기    |        [go](https://github.com/SoobinJung1013/JavaTDDPractice)         |
-|  3  | Spring web project |           | [go](https://github.com/SoobinJung1013/spring_web_project_tutorial) |
-|  4  |  Node.js Express   |         API server             | [go](https://github.com/SoobinJung1013/nodejs_express_tutorial)|
-|  5  |       Docker       |             도커세팅           | go  |
-|  6  |       Kubernetes       |            k8s minikube Basic 튜토리얼              | go  |
-|  7  |     Circle CI      |                        ci/cd baisc tutorial                         |       go          |
-|  8  |        GCP         | GCP 주요 기능들 사용 Tutorial (간단한 실시간 데이터 처리 프로젝트 ) |                                 go                                  |
-|  9  |     Big Query      |                      Big Query 개념 튜토리얼                   |            go                  |
-| 10  |       React        |                           React 내가 했던거                     |       go        |
-
+|  3  |      springboot_aws      |         springboot awt를 활용한 블로그 (인통설 과제)          | [go](https://github.com/SoobinJung1013/springboot_aws_tutorial)  |
+|  4  | Spring web project |           | [go](https://github.com/SoobinJung1013/spring_web_project_tutorial) |
+|  5  |  Node.js Express   |         API server             | [go](https://github.com/SoobinJung1013/nodejs_express_tutorial)|
+|  6  |       Docker       |             도커세팅           | go  |
+|  7  |       Kubernetes       |            k8s minikube Basic 튜토리얼              | go  |
+|  8  |     Circle CI      |                        ci/cd baisc tutorial                         |       go          |
+|  9  |        GCP         | GCP 주요 기능들 사용 Tutorial (간단한 실시간 데이터 처리 프로젝트 ) |                                 go                                  |
+|  10  |     Big Query      |                      Big Query 개념 튜토리얼                   |            go                  |
+| 11  |       React        |                           React 내가 했던거                     |       go        |
+|11|https://github.com/SoobinJung1013/springboot_aws_tutorial
   </details>
 
 ## 👩🏻‍💻 Coding Test Study
