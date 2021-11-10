@@ -109,7 +109,6 @@ Here are some ideas to get you started:
 |  9  |        GCP         | GCP 주요 기능들 사용 Tutorial (간단한 실시간 데이터 처리 프로젝트 ) |                                 go                                  |
 |  10  |     Big Query      |                      Big Query 개념 튜토리얼                   |            go                  |
 | 11  |       React        |                           React 내가 했던거                     |       go        |
-|11|https://github.com/SoobinJung1013/springboot_aws_tutorial
   </details>
 
 ## 👩🏻‍💻 Coding Test Study
