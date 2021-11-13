@@ -98,17 +98,18 @@ Here are some ideas to get you started:
 
 | num |        주제        |                              요약/설명                              |                                Link                                 |
 | :-: | :----------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
-| 🍈 1  |     Java Basic    |                     Java 기초 Baseball Game                     |  [go](https://github.com/SoobinJung1013/BaseballGame)    |
-|  2  | Java TDD Practice |  ...   |        [yet](https://github.com/SoobinJung1013/JavaTDDPractice)         |
-|  3  |      springboot_aws      |         springboot awt를 활용한 블로그 (인통설 과제)          | [go](https://github.com/SoobinJung1013/springboot_aws_tutorial)  |
-|  🍈 4  | nest js 공식문서 tutorial |           | [go](https://github.com/SoobinJung1013/nestjs_practice) |
-|  5  |  Node.js Express   |         API server             | [go](https://github.com/SoobinJung1013/nodejs_express_tutorial)|
-|  6  |       Docker       |             도커세팅           | go  |
-|  7  |       Kubernetes       |            k8s minikube Basic 튜토리얼              | go  |
-|  8  |     Circle CI      |                        ci/cd baisc tutorial                         |       go          |
-|  9  |        GCP         | GCP 주요 기능들 사용 Tutorial (간단한 실시간 데이터 처리 프로젝트 ) |                                 go                                  |
-|  10  |     Big Query      |                      Big Query 개념 튜토리얼                   |            go                  |
-|🍈 11  |       React + springboot + AWS  책     |                          SPA, REST API 기반 웹 애플리케이션 개발                   |       go        |
+|🍈 1  |       React + springboot + AWS  책     |                          SPA, REST API 기반 웹 애플리케이션 개발                   |       [go](https://github.com/SoobinJung1013/springboot_react_aws)        |
+| 🍈 2  |     Java Basic    |                     Java 기초 Baseball Game                     |  [go](https://github.com/SoobinJung1013/BaseballGame)    |
+|  3  | Java TDD Practice |  ...   |        [yet](https://github.com/SoobinJung1013/JavaTDDPractice)         |
+|  4  |      springboot_aws      |         springboot awt를 활용한 블로그 (인통설 과제)          | [go](https://github.com/SoobinJung1013/springboot_aws_tutorial)  |
+|  🍈 5 | nest js 공식문서 tutorial |           | [go](https://github.com/SoobinJung1013/nestjs_practice) |
+|  6  |  Node.js Express   |         API server             | [go](https://github.com/SoobinJung1013/nodejs_express_tutorial)|
+|  7  |       Docker       |             도커세팅           | go  |
+|  8  |       Kubernetes       |            k8s minikube Basic 튜토리얼              | go  |
+|  9  |     Circle CI      |                        ci/cd baisc tutorial                         |       go          |
+|  10  |        GCP         | GCP 주요 기능들 사용 Tutorial (간단한 실시간 데이터 처리 프로젝트 ) |                                 go                                  |
+|  11  |     Big Query      |                      Big Query 개념 튜토리얼                   |            go                  |
+
   </details>
 
 ## 👩🏻‍💻 Coding Test Study
