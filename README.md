@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 | num |        주제        |                              요약/설명                              |                                Link                                 |
 | :-: | :----------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
-|🍈 1  |       React + springboot + AWS  책     |                          SPA, REST API 기반 웹 애플리케이션 개발                   |       [go](https://github.com/SoobinJung1013/springboot_react_aws)        |
+|🍈 1  |       React + springboot + AWS      |                          SPA, REST API 기반 웹 애플리케이션 개발                   |       [go](https://github.com/SoobinJung1013/springboot_react_aws)        |
 | 🍈 2  |     Java Basic    |                     Java 기초 Baseball Game                     |  [go](https://github.com/SoobinJung1013/BaseballGame)    |
 |  3  | Java TDD Practice |  ...   |        [yet](https://github.com/SoobinJung1013/JavaTDDPractice)         |
 |  4  |      springboot_aws      |         springboot awt를 활용한 블로그 (인통설 과제)          | [go](https://github.com/SoobinJung1013/springboot_aws_tutorial)  |
