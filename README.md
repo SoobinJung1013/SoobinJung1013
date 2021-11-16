@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 |  2  | BigDataPipeline |                                [GCP, ci/cd, k8s, docker, etl](https://github.com/SoobinJung1013/BigDataPipeline)                                |
 |  3  |       MES       |                                [react](https://github.com/SoobinJung1013/MES)                                |
 |  4  |        나에게 맞는 전시회 찾기        |             [nest](https://github.com/AkchakPeople/MuseumAkchak)                      |
-|  5  |       이정은 정수빈 SP        |             [spring](https://github.com/BlueberrySJ)                     |
+|  5  |       이정은 정수빈 SP        |             [spring](https://github.com/BlueberrySJ/DrawOnTheMap)                     |
 
   </details>
   
