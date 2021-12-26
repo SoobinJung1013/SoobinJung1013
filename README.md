@@ -100,9 +100,9 @@ Here are some ideas to get you started:
 | :-: | :----------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
 |🍈 1  |       React + springboot + AWS      |                          SPA, REST API 기반 웹 애플리케이션 개발 : todo            |       [go](https://github.com/SoobinJung1013/springboot_react_aws)        |
 | 🍈 2  |     Java Basic    |                     Java 기초 Baseball Game                     |  [go](https://github.com/SoobinJung1013/BaseballGame)    |
-|  3  | Java TDD Practice |  ...   |        [yet](https://github.com/SoobinJung1013/JavaTDDPractice)         |
+<!-- |  3  | Java TDD Practice |  ...   |        [yet](https://github.com/SoobinJung1013/JavaTDDPractice)         | -->
 |  🍈 4  |      springboot + aws      |   intellij, JPA, Junit test, gradle, social login, AWS infra 무중단 배포 (인통설 과제)          | [go](https://github.com/SoobinJung1013/springboot_aws_tutorial)  |
-|  🍈 5 | nest js REAST API tutorial |           | [go](https://github.com/SoobinJung1013/nestjs_api) |
+|  🍈 5 | nest js REAST API tutorial |      nest js REAST API tutorial      | [go](https://github.com/SoobinJung1013/nestjs_api) |
 |  6  |  Node.js & Express   |         API server             | [go](https://github.com/SoobinJung1013/nodejs_express_tutorial)|
 |  7  |       Docker       |             도커세팅           | go  |
 |  8  |       Kubernetes       |            k8s minikube Basic 튜토리얼              | go  |
