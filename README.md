@@ -109,8 +109,10 @@ Here are some ideas to get you started:
 |  9  |     Circle CI      |                        ci/cd baisc tutorial                         |       go          |
 |  10  |        GCP         | GCP 주요 기능들 사용 Tutorial (간단한 실시간 데이터 처리 프로젝트 ) |                                 go                                  |
 |  11  |     Big Query      |                      Big Query 개념 튜토리얼                   |            go                  |
+|  🍈12  |    Django    |                    Django document 설문조사 앱              |            [go](https://github.com/SoobinJung1013/django_doc)                  |
 
   </details>
+  
 
 ## 👩🏻‍💻 Coding Test Study
 
