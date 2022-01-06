@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 |  10  |        GCP         | GCP 주요 기능들 사용 Tutorial (간단한 실시간 데이터 처리 프로젝트 ) |                                 go                                  |
 |  11  |     Big Query      |                      Big Query 개념 튜토리얼                   |            go                  |
 |  12  | Java TDD Practice |  Junit |        [yet](https://github.com/SoobinJung1013/JavaTDDPractice)         |
-|  13  | Login | login 기능 프레임워크별 코드 조각  |        [냐냐](https://github.com/SoobinJung1013/login_snippet)         |
+| 🍈 13  | Login | login 기능 프레임워크별 코드 조각  |        [냐냐](https://github.com/SoobinJung1013/login_snippet)         |
 
   </details>
   
