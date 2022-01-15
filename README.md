@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 -->
 
-## 👩🏻‍💼 이력서
+<!-- ## 👩🏻‍💼 이력서 -->
 
 <!-- - [click here 👈🏻]() -->
 
