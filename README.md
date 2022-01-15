@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 <!-- - [click here 👈🏻]() -->
 
-## ✨Projects / Side Projects
+## Projects / Side Projects
 
   <details markdown="1">
   <summary><strong> Click here 👈🏻 </strong></summary>
@@ -84,14 +84,14 @@ Here are some ideas to get you started:
 | num |      주제       |                               링크                               |
 | :-: | :-------------: | :--------------------------------------------------------------: |
 |  1  |    Blooming     | [go](https://github.com/SiliconValleyInternship-Lambda/Blooming) |
-|  2  | BigDataPipeline |                                [yet-GCP, ci/cd, k8s, docker, etl](https://github.com/SoobinJung1013/BigDataPipeline)                                |
-|  3  |       MES       |                                [yet-react](https://github.com/SoobinJung1013/MES)                                |
+|  2  | BigDataPipeline |                                                  |
+|  3  |       MES       |                                                         |
 |  4  |        나에게 맞는 전시회 찾기        |             [nest](https://github.com/AkchakPeople/MuseumAkchak)                      |
-|  5  |       이정은 정수빈 SP        |             [spring](https://github.com/BlueberrySJ/DrawOnTheMap)                     |
+|  5  |       Blueberry        |             [spring](https://github.com/BlueberrySJ/DrawOnTheMap)                     |
 
   </details>
   
-## ✨ My Tutorial
+## Tutorial
 
   <details markdown="1">
   <summary><strong> Click here 👈🏻👈🏻 </strong></summary>
@@ -115,23 +115,23 @@ Here are some ideas to get you started:
   </details>
   
 
-## 👩🏻‍💻 Coding Test Study
+## Coding Test Study
 
 - [click here 👈🏻](https://github.com/SoobinJung1013/coding_test_study)
 
-## 👩🏻‍💻 CS-Study & Interview
+## CS-Study & Interview
 
 - [click here 👈🏻](https://github.com/SoobinJung1013/cs-study)
 
-## 📚 Study archive
+## Study archive
 
 - [click here 👈🏻](https://github.com/SoobinJung1013/study_archive)
 
 
-## 📖 Book
+## Book
 
 - [click here 👈🏻](https://github.com/SoobinJung1013/book)
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoobinJung1013&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <t/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoobinJung1013&show_icons=true&theme=dark&hide_title=true&hide=issues)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoobinJung1013&show_icons=true&theme=dark&hide_title=true&hide=issues) -->
