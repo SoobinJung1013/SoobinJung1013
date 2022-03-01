@@ -1,10 +1,9 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Soobin%20Jung&fontSize=60) -->
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Soobin%20Jung&fontSize=60)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoobinJung1013&show_icons=true&theme=radical) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoobinJung1013&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<!-- 냉정하고 정중하게 생각하고 행동하자 -->
 
 <!--
 **SoobinJung1013/SoobinJung1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
