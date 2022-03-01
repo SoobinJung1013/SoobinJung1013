@@ -86,7 +86,8 @@ Here are some ideas to get you started:
 |  2  | BigDataPipeline |                                                  |
 |  3  |       MES       |                                                         |
 |  4  |        나에게 맞는 전시회 찾기        |             [nest](https://github.com/AkchakPeople/MuseumAkchak)                      |
-|  5  |       Blueberry        |             [spring](https://github.com/BlueberrySJ/DrawOnTheMap)                     |
+|  5  |       Blueberry        |                            |
+|  6  |       Spring 해커톤        |             [spring](https://github.com/techeer-sv/techeers/tree/soobin)                     |
 
   </details>
   
