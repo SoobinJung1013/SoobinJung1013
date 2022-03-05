@@ -135,3 +135,28 @@ Here are some ideas to get you started:
 <!-- 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoobinJung1013&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <t/> -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoobinJung1013&show_icons=true&theme=dark&hide_title=true&hide=issues) -->
+
+## P
+- blooming
+- big data pipeline
+- MES
+- museumNow
+- 해커톤 : spring boot
+
+
+## S
+- [nomadCoder] nestjs : hi_nest
+- [Infelarn] 스프링 입문
+- [Infelarn] 스프링 핵심원리
+- [Infelarn] 스프링 MVC
+- [NomadCoder] nestjs : clone coding
+- [Inflearn] HTTP 
+- [Java] : baseball game
+- [Book] : 스프링부트와 AWS로 혼자 구현하는 웹서비스
+- [Book] : React.js, 스프링부트, AWS로 배우는 웹 개발 101
+- [공식문서] : Django
+- [공식문서] : Nestjs
+- [Mediunm] : springboot-starterkit 
+- [Java_School] : 계산기
+- [Java_School] : scaleSerial Reader
+- [Java_School] : stompWithSpringSecurity
