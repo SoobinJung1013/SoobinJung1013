@@ -161,3 +161,8 @@ Here are some ideas to get you started:
 - [Java_School] : scaleSerial Reader
 - [Java_School] : stompWithSpringSecurity
 - [login] :: https://github.com/SoobinJung1013/login_snippet
+
+## E
+- [Coding Test] : : https://github.com/SoobinJung1013/coding-test-study
+- [CS] : https://github.com/SoobinJung1013/cs-study
+- [temp blog(archive)] : https://github.com/SoobinJung1013/study_archive
