@@ -137,26 +137,27 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoobinJung1013&show_icons=true&theme=dark&hide_title=true&hide=issues) -->
 
 ## P
-- blooming
+- blooming : https://github.com/SiliconValleyInternship-Lambda/Blooming
 - big data pipeline
 - MES
-- museumNow
-- 해커톤 : spring boot
+- museumNow : https://github.com/AkchakPeople/MuseumNow
+- 해커톤 : spring boot : https://github.com/techeer-sv/techeers/tree/soobin
 
 
 ## S
-- [nomadCoder] nestjs : hi_nest
+- [nomadCoder] nestjs : hi_nest : https://github.com/SoobinJung1013/nestjs_api
 - [Infelarn] 스프링 입문
 - [Infelarn] 스프링 핵심원리
 - [Infelarn] 스프링 MVC
 - [NomadCoder] nestjs : clone coding
 - [Inflearn] HTTP 
-- [Java] : baseball game
-- [Book] : 스프링부트와 AWS로 혼자 구현하는 웹서비스
-- [Book] : React.js, 스프링부트, AWS로 배우는 웹 개발 101
-- [공식문서] : Django
+- [Java] : baseball game : https://github.com/SoobinJung1013/BaseballGame
+- [Book] : 스프링부트와 AWS로 혼자 구현하는 웹서비스 : https://github.com/SoobinJung1013/springboot_aws
+- [Book] : React.js, 스프링부트, AWS로 배우는 웹 개발 101 : https://github.com/SoobinJung1013/springboot_react_aws
+- [공식문서] : Django : https://github.com/SoobinJung1013/django_doc
 - [공식문서] : Nestjs
 - [Mediunm] : springboot-starterkit 
 - [Java_School] : 계산기
 - [Java_School] : scaleSerial Reader
 - [Java_School] : stompWithSpringSecurity
+- [login] :: https://github.com/SoobinJung1013/login_snippet
