@@ -136,7 +136,9 @@ Here are some ideas to get you started:
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoobinJung1013&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <t/> -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoobinJung1013&show_icons=true&theme=dark&hide_title=true&hide=issues) -->
 
-## P
+
+
+<!-- ## P
 - blooming : https://github.com/SiliconValleyInternship-Lambda/Blooming
 - big data pipeline
 - MES
@@ -166,3 +168,4 @@ Here are some ideas to get you started:
 - [Coding Test] : : https://github.com/SoobinJung1013/coding-test-study
 - [CS] : https://github.com/SoobinJung1013/cs-study
 - [temp blog(archive)] : https://github.com/SoobinJung1013/study_archive
+ -->
