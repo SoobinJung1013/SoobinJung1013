@@ -1,14 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Soobin%20Jung&fontSize=60)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoobinJung1013&show_icons=true&theme=radical) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoobinJung1013&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-
-<!--
-**SoobinJung1013/SoobinJung1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,10 +10,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<!--
+ -->
 
+<!-- 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -69,103 +61,12 @@ Here are some ideas to get you started:
 ![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
--->
-
-<!-- ## 이력서 -->
-
-<!-- - [click here 👈🏻]() -->
-
-<!-- ## Projects / Side Projects
-
-  <details markdown="1">
-  <summary><strong> Click here 👈🏻 </strong></summary>
-
-| num |      주제       |                               링크                               |
-| :-: | :-------------: | :--------------------------------------------------------------: |
-|  1  |    Blooming     | [go](https://github.com/SiliconValleyInternship-Lambda/Blooming) |
-|  2  | BigDataPipeline |                                                  |
-|  3  |       MES       |                                                         |
-|  4  |        나에게 맞는 전시회 찾기        |             [nest](https://github.com/AkchakPeople/MuseumAkchak)                      |
-|  5  |       Blueberry        |                            |
-|  6  |       Spring 해커톤        |             [spring](https://github.com/techeer-sv/techeers/tree/soobin)                     |
-
-  </details>
-   -->
-<!-- ## Tutorial
-
-  <details markdown="1">
-  <summary><strong> Click here 👈🏻👈🏻 </strong></summary>
-
-| num |        주제        |                              요약/설명                              |                                Link                                 |
-| :-: | :----------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
-|🍈 1  |       React + springboot + AWS      |                          SPA, REST API 기반 웹 애플리케이션 개발 : todo            |       [go](https://github.com/SoobinJung1013/springboot_react_aws)        |
-| 🍈 2  |     Java Basic    |                     Java 기초 Baseball Game                     |  [go](https://github.com/SoobinJung1013/BaseballGame)    |
-|  🍈3  |    Django    |                    Django document 설문조사 앱              |            [go](https://github.com/SoobinJung1013/django_doc)                  |
-|  🍈 4  |      springboot + aws      |   intellij, JPA, Junit test, gradle, social login, AWS infra 무중단 배포 -ing        | [go](https://github.com/SoobinJung1013/springboot_aws_tutorial)  |
-|  🍈 5 | Nest REAST API tutorial |      nest js REAST API tutorial      | [go](https://github.com/SoobinJung1013/nestjs_api) |
-|  6  |  Express(nodejs)   |         API server             | [go](https://github.com/SoobinJung1013/nodejs_express_tutorial)|
-|  7  |       Docker       |             도커세팅           | go  |
-|  8  |       Kubernetes       |            k8s minikube Basic 튜토리얼              | go  |
-|  9  |     Circle CI      |                        ci/cd baisc tutorial                         |       go          |
-|  10  |        GCP         | GCP 주요 기능들 사용 Tutorial (간단한 실시간 데이터 처리 프로젝트 ) |                                 go                                  |
-|  11  |     Big Query      |                      Big Query 개념 튜토리얼                   |            go                  |
-|  12  | Java TDD Practice |  Junit |        [yet](https://github.com/SoobinJung1013/JavaTDDPractice)         |
-| 🍈 13  | Login | login 기능 프레임워크별 코드 조각  |        [..](https://github.com/SoobinJung1013/login_snippet)         |
-
-  </details>
-  
-
-## Coding Test Study
-
-- [click here 👈🏻](https://github.com/SoobinJung1013/coding_test_study)
-
-## CS-Study & Interview
-
-- [click here 👈🏻](https://github.com/SoobinJung1013/cs-study)
-
-## Study archive
-
-- [click here 👈🏻](https://github.com/SoobinJung1013/study_archive)
+ -->
 
 
-## Book
-
-- [click here 👈🏻](https://github.com/SoobinJung1013/book)
-<br/> -->
 <!-- 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoobinJung1013&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <t/> -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoobinJung1013&show_icons=true&theme=dark&hide_title=true&hide=issues) -->
 
 
 
-<!-- ## P
-- blooming : https://github.com/SiliconValleyInternship-Lambda/Blooming
-- big data pipeline
-- MES
-- museumNow : https://github.com/AkchakPeople/MuseumNow
-- 해커톤 : spring boot : https://github.com/techeer-sv/techeers/tree/soobin
-
-
-## S
-- [nomadCoder] nestjs : hi_nest : https://github.com/SoobinJung1013/nestjs_api
-- [Infelarn] 스프링 입문
-- [Infelarn] 스프링 핵심원리
-- [Infelarn] 스프링 MVC
-- [NomadCoder] nestjs : clone coding
-- [Inflearn] HTTP 
-- [Java] : baseball game : https://github.com/SoobinJung1013/BaseballGame
-- [Book] : 스프링부트와 AWS로 혼자 구현하는 웹서비스 : https://github.com/SoobinJung1013/springboot_aws
-- [Book] : React.js, 스프링부트, AWS로 배우는 웹 개발 101 : https://github.com/SoobinJung1013/springboot_react_aws
-- [공식문서] : Django : https://github.com/SoobinJung1013/django_doc
-- [공식문서] : Nestjs
-- [Mediunm] : springboot-starterkit 
-- [Java_School] : 계산기
-- [Java_School] : scaleSerial Reader
-- [Java_School] : stompWithSpringSecurity
-- [login] :: https://github.com/SoobinJung1013/login_snippet
-
-## E
-- [Coding Test] : : https://github.com/SoobinJung1013/coding-test-study
-- [CS] : https://github.com/SoobinJung1013/cs-study
-- [temp blog(archive)] : https://github.com/SoobinJung1013/study_archive
- -->
