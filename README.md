@@ -64,9 +64,9 @@
  -->
 
 
-<!-- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoobinJung1013&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <t/> -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoobinJung1013&show_icons=true&theme=dark&hide_title=true&hide=issues) -->
+
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoobinJung1013&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <t/> -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoobinJung1013&show_icons=true&theme=dark&hide_title=true&hide=issues)
 
 
 
