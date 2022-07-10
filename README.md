@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Judy&fontSize=60)
+<!-- ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&text=Judy&fontSize=60)-->
 
+Hi ! I'm Judy 🙌🏻
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
