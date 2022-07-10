@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Soobin%20Jung&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Judy&fontSize=60)
 
-<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,7 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
- -->
+
 
 <!-- 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
