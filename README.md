@@ -2,12 +2,12 @@
 
 Hi ! I'm Judy 🙌🏻
 
-- 🔭 I’m currently working on gentle energy
+<!-- - 🔭 I’m currently working on gentle energy -->
 <!-- - 🌱 I’m currently learning java & spring -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: judyb0626@gmail.com
+<!-- - 📫 How to reach me: judyb0626@gmail.com -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
