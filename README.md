@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&text=Judy&fontSize=60)-->
 
-Hi ! I'm Judy 🙌🏻
+Hi ! I'm Sooooooobin 🙌🏻
 
 <!-- - 🔭 I’m currently working on gentle energy -->
 <!-- - 🌱 I’m currently learning java & spring -->
